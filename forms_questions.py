@@ -1,3 +1,5 @@
+from datetime import datetime
+
 from telebot.types import InlineKeyboardMarkup, InlineKeyboardButton, ReplyKeyboardMarkup
 
 import fsm
@@ -47,4 +49,15 @@ def form_choice_city(locations_info: dict):
     text_form = fsm.questions[fsm.CHOICE_CITY]
     keyboard = make_reply_keyboard(tuple(locations_info.keys()))
 
+    return text_form, keyboard
+
+
+def form_entered_date(state: int, calendar, calendar_callback):
+    text_form = fsm.questions[state]
+    now = datetime.utcnow()
+    keyboard = calendar.create_calendar(
+            name=calendar_callback.prefix,
+            year=now.year,
+            month=now.month
+        )
     return text_form, keyboard

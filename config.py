@@ -14,4 +14,4 @@ HEADERS_RAPID_API = {
 LOCALE = "ru_RU"
 CURRENCY = "RUB"
 
-DEBUG_NAME_CITY = 'Москва'
+DEBUG_NAME_CITY = 'москва'

@@ -4,12 +4,17 @@ from telebot import TeleBot
 from telebot.types import CallbackQuery
 
 import fsm
-from BotController import BotController
+from BotController import BotController, calendar_callback
 
 
 def handle_callback_set_default_value(bot: TeleBot, bot_controller: BotController):
     @bot.callback_query_handler(func=lambda call: call.data in ['set_default', 'change_default'])
     def callback_set_default_value(call: CallbackQuery):
+        """
+        Обработка inline callback запросов после отправки пользователю формы
+        для выбора установок по умолчанию (кол-во гостей и даты въезда/выезда).
+        """
+
         # убирает состояние загрузки, к которому переходит бот после нажатия кнопки
         bot.answer_callback_query(str(call.id))
 
@@ -39,6 +44,11 @@ def handle_callback_set_default_value(bot: TeleBot, bot_controller: BotControlle
 def handle_callback_check_entered_data(bot: TeleBot, bot_controller: BotController):
     @bot.callback_query_handler(func=lambda call: call.data in ['start_cmd_again', 'exec_cmd'])
     def callback_check_entered_data(call: CallbackQuery):
+        """
+        Обработка inline callback запросов после отправки пользователю формы
+        для подтверждения правильности введенных данных.
+        """
+
         # убирает состояние загрузки, к которому переходит бот после нажатия кнопки
         bot.answer_callback_query(str(call.id))
 
@@ -56,3 +66,27 @@ def handle_callback_check_entered_data(bot: TeleBot, bot_controller: BotControll
 
         # после ответа, клавиатура будет исчезать из чата
         bot.edit_message_reply_markup(id_user, call.message.message_id)
+
+
+def handle_callback_select_date(bot: TeleBot, bot_controller: BotController):
+    @bot.callback_query_handler(func=lambda call: call.data.startswith(calendar_callback.prefix))
+    def callback_select_date(call: CallbackQuery):
+        """
+        Обработка inline callback запросов при выборе даты по календарю.
+        """
+
+        id_user = call.message.chat.id
+        calendar = bot_controller.get_calendar(id_user)
+        if not calendar:
+            return
+        name, action, *date_values = call.data.split(calendar_callback.sep)
+        selected_date = calendar.calendar_query_handler(bot, call, name, action, *date_values)
+        if action == 'OK' and selected_date:
+            date_str = f'{selected_date:%Y-%m-%d}'
+            key_date = 'checkIn' if bot_controller.get_state_cmd(id_user) == fsm.GET_CHECKIN_DATE else 'checkOut'
+            bot_controller.add_api_params(id_user, **{key_date: date_str})
+            bot_controller.add_data_to_form_confirm(id_user, date_str)
+
+            # после ответа, клавиатура будет исчезать из чата
+            bot.edit_message_reply_markup(id_user, call.message.message_id)
+            bot_controller.go_next_state(id_user)

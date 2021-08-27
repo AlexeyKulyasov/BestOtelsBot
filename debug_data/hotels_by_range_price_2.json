@@ -1,0 +1,1483 @@
+{
+  "result": "OK",
+  "data": {
+    "body": {
+      "header": "Москва, Россия",
+      "query": {
+        "destination": {
+          "id": "1153093",
+          "value": "Москва, Россия",
+          "resolvedLocation": "CITY:1153093:UNKNOWN:UNKNOWN"
+        }
+      },
+      "searchResults": {
+        "totalCount": 2592,
+        "results": [
+          {
+            "id": 673909,
+            "name": "Отель «Старосадский»",
+            "starRating": 3.0,
+            "urls": {},
+            "address": {
+              "streetAddress": "Старосадский пер., 8/3",
+              "extendedAddress": "",
+              "locality": "Москва",
+              "postalCode": "101000",
+              "region": "",
+              "countryName": "Россия",
+              "countryCode": "ru",
+              "obfuscate": false
+            },
+            "welcomeRewards": {
+              "collect": true
+            },
+            "landmarks": [
+              {
+                "label": "Центр города",
+                "distance": "1,5 км"
+              },
+              {
+                "label": "Третье транспортное кольцо",
+                "distance": "1,7 км"
+              }
+            ],
+            "geoBullets": [],
+            "ratePlan": {
+              "price": {
+                "current": "8,570 RUB",
+                "exactCurrent": 8570.0,
+                "info": "за 1 номер на 3 суток",
+                "summary": "включая налоги и сборы"
+              },
+              "features": {
+                "freeCancellation": true,
+                "paymentPreference": false,
+                "noCCRequired": false
+              },
+              "type": "EC"
+            },
+            "neighbourhood": "Центральный административный округ",
+            "deals": {},
+            "messaging": {
+              "scarcity": "2 осталось в нашем приложении"
+            },
+            "badging": {},
+            "pimmsAttributes": "DoubleStamps|D13|HRW",
+            "coordinate": {
+              "lat": 55.756039,
+              "lon": 37.638633
+            },
+            "roomsLeft": 2,
+            "providerType": "LOCAL",
+            "supplierHotelId": 17730434,
+            "isAlternative": false,
+            "optimizedThumbUrls": {
+              "srpDesktop": "https://thumbnails.trvl-media.com/AFvqo884NPncNymzyVpp0GyANxk=/250x140/smart/filters:quality(60)/images.trvl-media.com/hotels/18000000/17740000/17730500/17730434/0fea8439_z.jpg"
+            }
+          },
+          {
+            "id": 677038,
+            "name": "«Винтерфелл на Цветном бульваре»",
+            "starRating": 2.5,
+            "urls": {},
+            "address": {
+              "streetAddress": "ул. Садовая-Каретная, 24/7",
+              "extendedAddress": "",
+              "locality": "Москва",
+              "postalCode": "127051",
+              "region": "",
+              "countryName": "Россия",
+              "countryCode": "ru",
+              "obfuscate": false
+            },
+            "welcomeRewards": {
+              "collect": true
+            },
+            "guestReviews": {
+              "unformattedRating": 7.0,
+              "rating": "7,0",
+              "total": 2,
+              "scale": 10,
+              "badge": "good",
+              "badgeText": "Хорошо"
+            },
+            "landmarks": [
+              {
+                "label": "Центр города",
+                "distance": "1,8 км"
+              },
+              {
+                "label": "Третье транспортное кольцо",
+                "distance": "3,0 км"
+              }
+            ],
+            "geoBullets": [],
+            "ratePlan": {
+              "price": {
+                "current": "3,677 RUB",
+                "exactCurrent": 3676.5,
+                "old": "3,870 RUB",
+                "info": "за 1 номер на 3 суток",
+                "summary": "включая налоги и сборы"
+              },
+              "features": {
+                "freeCancellation": true,
+                "paymentPreference": true,
+                "noCCRequired": false
+              },
+              "type": "Dual"
+            },
+            "neighbourhood": "Тверской",
+            "deals": {
+              "secretPrice": {
+                "dealText": "Экономьте больше с нашими секретными ценами!"
+              },
+              "priceReasoning": "DRR-443"
+            },
+            "messaging": {},
+            "badging": {},
+            "pimmsAttributes": "DoubleStamps|D13|TESCO",
+            "coordinate": {
+              "lat": 55.773,
+              "lon": 37.61176
+            },
+            "providerType": "LOCAL",
+            "supplierHotelId": 17802374,
+            "isAlternative": false,
+            "optimizedThumbUrls": {
+              "srpDesktop": "https://thumbnails.trvl-media.com/eyA1YlhFQxGhsDECAnUjtLNLobE=/250x140/smart/filters:quality(60)/images.trvl-media.com/hotels/18000000/17810000/17802400/17802374/7ba6fcf5_z.jpg"
+            }
+          },
+          {
+            "id": 1204165984,
+            "name": "Отель «Винтерфелл Старый Арбат»",
+            "starRating": 2.5,
+            "urls": {},
+            "address": {
+              "streetAddress": "Большой Власьевский пер., 14, стр. 2  ",
+              "extendedAddress": "",
+              "locality": "Москва",
+              "postalCode": "119002",
+              "region": "",
+              "countryName": "Россия",
+              "countryCode": "ru",
+              "obfuscate": false
+            },
+            "welcomeRewards": {
+              "collect": true
+            },
+            "landmarks": [
+              {
+                "label": "Центр города",
+                "distance": "1,9 км"
+              },
+              {
+                "label": "Третье транспортное кольцо",
+                "distance": "1,7 км"
+              }
+            ],
+            "geoBullets": [],
+            "ratePlan": {
+              "price": {
+                "current": "4,470 RUB",
+                "exactCurrent": 4470.0,
+                "info": "за 1 номер на 3 суток",
+                "summary": "включая налоги и сборы"
+              },
+              "features": {
+                "freeCancellation": true,
+                "paymentPreference": true,
+                "noCCRequired": false
+              },
+              "type": "Dual"
+            },
+            "neighbourhood": "Центр Москвы",
+            "deals": {},
+            "messaging": {},
+            "badging": {},
+            "pimmsAttributes": "DoubleStamps|D13|TESCO",
+            "coordinate": {
+              "lat": 55.74647,
+              "lon": 37.59156
+            },
+            "providerType": "LOCAL",
+            "supplierHotelId": 37598937,
+            "isAlternative": false,
+            "optimizedThumbUrls": {
+              "srpDesktop": "https://thumbnails.trvl-media.com/5Gp-B4xnhnH6CsiMECpZXJAOsfo=/250x140/smart/filters:quality(60)/images.trvl-media.com/hotels/38000000/37600000/37599000/37598937/328765cc_z.jpg"
+            }
+          },
+          {
+            "id": 850581728,
+            "name": "Капсульный отель CUBE",
+            "starRating": 2.0,
+            "urls": {},
+            "address": {
+              "streetAddress": "Новинский бульвар, 16, стр. 2",
+              "extendedAddress": "",
+              "locality": "Москва",
+              "postalCode": "121069",
+              "region": "",
+              "countryName": "Россия",
+              "countryCode": "ru",
+              "obfuscate": false
+            },
+            "welcomeRewards": {
+              "collect": true
+            },
+            "landmarks": [
+              {
+                "label": "Центр города",
+                "distance": "1,9 км"
+              },
+              {
+                "label": "Третье транспортное кольцо",
+                "distance": "2,3 км"
+              }
+            ],
+            "geoBullets": [],
+            "ratePlan": {
+              "price": {
+                "current": "3,897 RUB",
+                "exactCurrent": 3897.0,
+                "info": "за 1 номер на 3 суток",
+                "summary": "включая налоги и сборы"
+              },
+              "features": {
+                "freeCancellation": true,
+                "paymentPreference": true,
+                "noCCRequired": false
+              },
+              "type": "Dual"
+            },
+            "neighbourhood": "Арбат",
+            "deals": {},
+            "messaging": {},
+            "badging": {},
+            "pimmsAttributes": "DoubleStamps|D13",
+            "coordinate": {
+              "lat": 55.75524,
+              "lon": 37.58473
+            },
+            "providerType": "LOCAL",
+            "supplierHotelId": 26549429,
+            "isAlternative": false,
+            "optimizedThumbUrls": {
+              "srpDesktop": "https://thumbnails.trvl-media.com/fJFl0Xb7ctSuRJjEvaDcdJfFb34=/250x140/smart/filters:quality(60)/images.trvl-media.com/hotels/27000000/26550000/26549500/26549429/3dc672ca_z.jpg"
+            }
+          }
+        ],
+        "pagination": {
+          "currentPage": 2,
+          "pageGroup": "EXPEDIA_IN_POLYGON",
+          "nextPageStartIndex": 15,
+          "nextPageNumber": 3,
+          "nextPageGroup": "EXPEDIA_IN_POLYGON"
+        }
+      },
+      "sortResults": {
+        "options": [
+          {
+            "label": "Рекомендованные",
+            "itemMeta": "popular",
+            "choices": [
+              {
+                "label": "Рекомендованные",
+                "value": "BEST_SELLER",
+                "selected": false
+              }
+            ],
+            "enhancedChoices": []
+          },
+          {
+            "label": "Звездность",
+            "itemMeta": "star",
+            "choices": [
+              {
+                "label": "Звезды (по убыванию)",
+                "value": "STAR_RATING_HIGHEST_FIRST",
+                "selected": false
+              },
+              {
+                "label": "Звезды (по возрастанию)",
+                "value": "STAR_RATING_LOWEST_FIRST",
+                "selected": false
+              }
+            ],
+            "enhancedChoices": []
+          },
+          {
+            "label": "Расстояние",
+            "itemMeta": "distance",
+            "selectedChoiceLabel": "Расстояние до центра города",
+            "choices": [
+              {
+                "label": "Расстояние до центра города",
+                "value": "DISTANCE_FROM_LANDMARK",
+                "selected": true
+              }
+            ],
+            "enhancedChoices": [
+              {
+                "label": "Что посмотреть",
+                "itemMeta": "landmarks",
+                "choices": [
+                  {
+                    "label": "Центр города",
+                    "id": 1153093.0
+                  },
+                  {
+                    "label": "Арбат",
+                    "id": 1707917.0
+                  },
+                  {
+                    "label": "Арена ЦСКА",
+                    "id": 10674386.0
+                  },
+                  {
+                    "label": "Большой театр",
+                    "id": 1647670.0
+                  },
+                  {
+                    "label": "Выставка достижений народного хозяйства",
+                    "id": 1799141.0
+                  },
+                  {
+                    "label": "Выставочный центр «Крокус»",
+                    "id": 1688939.0
+                  },
+                  {
+                    "label": "Дворец спорта «Мегаспорт»",
+                    "id": 1708351.0
+                  },
+                  {
+                    "label": "Здание Министерства иностранных дел",
+                    "id": 1786332.0
+                  },
+                  {
+                    "label": "Красная площадь",
+                    "id": 1647668.0
+                  },
+                  {
+                    "label": "Москва-Сити",
+                    "id": 10666602.0
+                  },
+                  {
+                    "label": "Московский государственный университет",
+                    "id": 1708449.0
+                  },
+                  {
+                    "label": "Московский Кремль",
+                    "id": 1647675.0
+                  },
+                  {
+                    "label": "Посольство Соединенных Штатов Америки",
+                    "id": 1796900.0
+                  },
+                  {
+                    "label": "Проспект Мира",
+                    "id": 1665956.0
+                  },
+                  {
+                    "label": "Стадион «Лужники»",
+                    "id": 1708350.0
+                  },
+                  {
+                    "label": "Тверская улица",
+                    "id": 11422273.0
+                  },
+                  {
+                    "label": "Торговый центр Авиапарк",
+                    "id": 10895026.0
+                  },
+                  {
+                    "label": "Третье транспортное кольцо",
+                    "id": 1786010.0
+                  },
+                  {
+                    "label": "Храм Василия Блаженного",
+                    "id": 1647674.0
+                  },
+                  {
+                    "label": "Экспоцентр",
+                    "id": 1688969.0
+                  }
+                ]
+              },
+              {
+                "label": "Вокзалы и станции",
+                "itemMeta": "stations",
+                "choices": [
+                  {
+                    "label": "Белорусский вокзал",
+                    "id": 1709351.0
+                  },
+                  {
+                    "label": "Казанский вокзал",
+                    "id": 1770164.0
+                  },
+                  {
+                    "label": "Киевский вокзал",
+                    "id": 1705552.0
+                  },
+                  {
+                    "label": "Киевский вокзал",
+                    "id": 1770167.0
+                  },
+                  {
+                    "label": "Курский вокзал",
+                    "id": 1770165.0
+                  },
+                  {
+                    "label": "Ленинградский вокзал",
+                    "id": 1770163.0
+                  },
+                  {
+                    "label": "м. «Бауманская»",
+                    "id": 1705654.0
+                  },
+                  {
+                    "label": "м. «Белорусская» - Кольцевая линия",
+                    "id": 1705670.0
+                  },
+                  {
+                    "label": "м. «Братиславская»",
+                    "id": 1705866.0
+                  },
+                  {
+                    "label": "м. «ВДНХ»",
+                    "id": 1705692.0
+                  },
+                  {
+                    "label": "м. «Киевская» - Кольцевая линия",
+                    "id": 1705671.0
+                  },
+                  {
+                    "label": "м. «Краснопресненская»",
+                    "id": 1705672.0
+                  },
+                  {
+                    "label": "м. «Кунцевская»",
+                    "id": 1705556.0
+                  },
+                  {
+                    "label": "м. «Павелецкая»",
+                    "id": 1708370.0
+                  },
+                  {
+                    "label": "м. «Смоленская»",
+                    "id": 1705666.0
+                  },
+                  {
+                    "label": "м. «Тверская»",
+                    "id": 1705547.0
+                  },
+                  {
+                    "label": "м. «Шоссе энтузиастов»",
+                    "id": 1705767.0
+                  },
+                  {
+                    "label": "м. «Юго-западная»",
+                    "id": 1705541.0
+                  },
+                  {
+                    "label": "Павелецкий вокзал",
+                    "id": 1770166.0
+                  },
+                  {
+                    "label": "Ярославский вокзал",
+                    "id": 1770161.0
+                  }
+                ]
+              },
+              {
+                "label": "Аэропорты",
+                "itemMeta": "airports",
+                "choices": [
+                  {
+                    "label": "Аэропорт Шереметьево (SVO)",
+                    "id": 1666194.0
+                  },
+                  {
+                    "label": "Жуковский (ZIA)",
+                    "id": 10674387.0
+                  },
+                  {
+                    "label": "Москва (DME-Домодедово, международный)",
+                    "id": 1666007.0
+                  },
+                  {
+                    "label": "Москва (VKO-Внуково, международный)",
+                    "id": 1666214.0
+                  },
+                  {
+                    "label": "Подольск (OSF-Остафьево)",
+                    "id": 12459347.0
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "label": "Рейтинг гостей",
+            "itemMeta": "rating",
+            "choices": [
+              {
+                "label": "Рейтинг гостей",
+                "value": "GUEST_RATING",
+                "selected": false
+              }
+            ],
+            "enhancedChoices": []
+          },
+          {
+            "label": "Цена",
+            "itemMeta": "price",
+            "choices": [
+              {
+                "label": "Цена (по убыванию)",
+                "value": "PRICE_HIGHEST_FIRST",
+                "selected": false
+              },
+              {
+                "label": "Цена (по возрастанию)",
+                "value": "PRICE",
+                "selected": false
+              }
+            ],
+            "enhancedChoices": []
+          }
+        ],
+        "distanceOptionLandmarkId": 1153093.0
+      },
+      "filters": {
+        "applied": true,
+        "name": {
+          "item": {
+            "value": ""
+          },
+          "autosuggest": {
+            "additionalUrlParams": {
+              "resolved-location": "CITY:1153093:UNKNOWN:UNKNOWN",
+              "q-destination": "Москва, Россия",
+              "destination-id": "1153093"
+            }
+          }
+        },
+        "starRating": {
+          "applied": false,
+          "items": [
+            {
+              "value": 5
+            },
+            {
+              "value": 4
+            },
+            {
+              "value": 3
+            },
+            {
+              "value": 2
+            },
+            {
+              "value": 1
+            }
+          ]
+        },
+        "guestRating": {
+          "range": {
+            "min": {
+              "defaultValue": 0.0
+            },
+            "max": {
+              "defaultValue": 10.0
+            }
+          }
+        },
+        "landmarks": {
+          "selectedOrder": [],
+          "items": [
+            {
+              "label": "Центр города",
+              "value": "1153093"
+            },
+            {
+              "label": "Третье транспортное кольцо",
+              "value": "1786010"
+            },
+            {
+              "label": "Красная площадь",
+              "value": "1647668"
+            },
+            {
+              "label": "Аэропорт Шереметьево (SVO)",
+              "value": "1666194"
+            },
+            {
+              "label": "Московский Кремль",
+              "value": "1647675"
+            },
+            {
+              "label": "Москва (DME-Домодедово, международный)",
+              "value": "1666007"
+            },
+            {
+              "label": "Арбат",
+              "value": "1707917"
+            },
+            {
+              "label": "Большой театр",
+              "value": "1647670"
+            },
+            {
+              "label": "Храм Василия Блаженного",
+              "value": "1647674"
+            },
+            {
+              "label": "Москва (VKO-Внуково, международный)",
+              "value": "1666214"
+            },
+            {
+              "label": "Экспоцентр",
+              "value": "1688969"
+            },
+            {
+              "label": "Ленинградский вокзал",
+              "value": "1770163"
+            },
+            {
+              "label": "Выставочный центр «Крокус»",
+              "value": "1688939"
+            },
+            {
+              "label": "м. «Павелецкая»",
+              "value": "1708370"
+            },
+            {
+              "label": "Белорусский вокзал",
+              "value": "1709351"
+            },
+            {
+              "label": "Павелецкий вокзал",
+              "value": "1770166"
+            },
+            {
+              "label": "Посольство Соединенных Штатов Америки",
+              "value": "1796900"
+            },
+            {
+              "label": "Москва-Сити",
+              "value": "10666602"
+            },
+            {
+              "label": "Казанский вокзал",
+              "value": "1770164"
+            },
+            {
+              "label": "Тверская улица",
+              "value": "11422273"
+            }
+          ],
+          "distance": []
+        },
+        "neighbourhood": {
+          "applied": false,
+          "items": [
+            {
+              "label": "Арбат",
+              "value": "1665959"
+            },
+            {
+              "label": "Измайлово",
+              "value": "10779356"
+            },
+            {
+              "label": "Сокольники",
+              "value": "1786031"
+            },
+            {
+              "label": "Аэропорт",
+              "value": "1805744"
+            },
+            {
+              "label": "Тверской",
+              "value": "1792341"
+            },
+            {
+              "label": "Хамовники",
+              "value": "1707738"
+            },
+            {
+              "label": "Люблино",
+              "value": "11425835"
+            },
+            {
+              "label": "Восточное Измайлово",
+              "value": "10873994"
+            },
+            {
+              "label": "Ново-Переделкино",
+              "value": "10565800"
+            },
+            {
+              "label": "Митино",
+              "value": "11388207"
+            },
+            {
+              "label": "Басманный",
+              "value": "1707737"
+            },
+            {
+              "label": "Таганский",
+              "value": "1707807"
+            },
+            {
+              "label": "Выхино-Жулебино",
+              "value": "11426695"
+            },
+            {
+              "label": "Академический",
+              "value": "10873979"
+            },
+            {
+              "label": "Пресненский",
+              "value": "1707806"
+            },
+            {
+              "label": "Проспект Вернадского",
+              "value": "10873984"
+            },
+            {
+              "label": "Ярославский район",
+              "value": "11386120"
+            },
+            {
+              "label": "Сокол",
+              "value": "10674385"
+            },
+            {
+              "label": "Братеево",
+              "value": "11423836"
+            },
+            {
+              "label": "Отрадное",
+              "value": "10873962"
+            },
+            {
+              "label": "Рязанский",
+              "value": "10873960"
+            },
+            {
+              "label": "Центр Москвы",
+              "value": "10565407"
+            },
+            {
+              "label": "Царицыно",
+              "value": "10565393"
+            },
+            {
+              "label": "Марьино",
+              "value": "11426142"
+            },
+            {
+              "label": "Даниловский",
+              "value": "1812327"
+            },
+            {
+              "label": "Чертаново Южное",
+              "value": "10565799"
+            },
+            {
+              "label": "Марьина Роща",
+              "value": "10873976"
+            },
+            {
+              "label": "Останкинский",
+              "value": "10565395"
+            },
+            {
+              "label": "Беговой",
+              "value": "1665962"
+            },
+            {
+              "label": "Красносельский",
+              "value": "1707739"
+            },
+            {
+              "label": "Бутырский",
+              "value": "10565391"
+            },
+            {
+              "label": "Дорогомилово",
+              "value": "1792342"
+            },
+            {
+              "label": "Северное Медведково",
+              "value": "11425235"
+            },
+            {
+              "label": "Алтуфьевский",
+              "value": "11422945"
+            },
+            {
+              "label": "Бибирево",
+              "value": "11422786"
+            },
+            {
+              "label": "Гагаринский",
+              "value": "10873952"
+            },
+            {
+              "label": "Богородское",
+              "value": "10383754"
+            },
+            {
+              "label": "Хорошевский",
+              "value": "1786029"
+            },
+            {
+              "label": "Хорошёво-Мнёвники",
+              "value": "1695454"
+            },
+            {
+              "label": "Войковский",
+              "value": "10873961"
+            },
+            {
+              "label": "Зябликово",
+              "value": "11426311"
+            },
+            {
+              "label": "район Текстильщики",
+              "value": "11426277"
+            },
+            {
+              "label": "район Северный",
+              "value": "11425033"
+            },
+            {
+              "label": "район Коптево",
+              "value": "11427377"
+            },
+            {
+              "label": "район Некрасовка",
+              "value": "11386766"
+            },
+            {
+              "label": "Якиманка",
+              "value": "1707818"
+            },
+            {
+              "label": "Бескудниковский",
+              "value": "11426648"
+            },
+            {
+              "label": "Хорошевский",
+              "value": "10873983"
+            },
+            {
+              "label": "район Печатники",
+              "value": "11427467"
+            },
+            {
+              "label": "Алексеевский",
+              "value": "1786012"
+            },
+            {
+              "label": "Лосиноостровский",
+              "value": "11425947"
+            },
+            {
+              "label": "Перово",
+              "value": "12547349"
+            },
+            {
+              "label": "Теплый Стан",
+              "value": "12540339"
+            },
+            {
+              "label": "Новокосино",
+              "value": "12542445"
+            },
+            {
+              "label": "Головинский",
+              "value": "11422855"
+            },
+            {
+              "label": "Южнопортовый район",
+              "value": "11427554"
+            },
+            {
+              "label": "Можайский",
+              "value": "12540341"
+            },
+            {
+              "label": "Куркино",
+              "value": "11425153"
+            },
+            {
+              "label": "Бирюлево Восточное",
+              "value": "12538294"
+            },
+            {
+              "label": "Косино-Ухтомский район",
+              "value": "12543059"
+            },
+            {
+              "label": "район Матушкино",
+              "value": "11425376"
+            },
+            {
+              "label": "Нижегородский",
+              "value": "11426396"
+            },
+            {
+              "label": "район Нагатинский затон",
+              "value": "12538325"
+            },
+            {
+              "label": "Юго-Восточный административный округ",
+              "value": "12525313"
+            },
+            {
+              "label": "Мещанский район",
+              "value": "12544787"
+            },
+            {
+              "label": "Гольяново",
+              "value": "11388231"
+            },
+            {
+              "label": "Котловка",
+              "value": "12548944"
+            },
+            {
+              "label": "Щукино",
+              "value": "12546169"
+            },
+            {
+              "label": "Обручевский",
+              "value": "12542446"
+            },
+            {
+              "label": "сельское поселение Горское",
+              "value": "11420929"
+            },
+            {
+              "label": "Нагатино-Садовники",
+              "value": "12523128"
+            },
+            {
+              "label": "Зюзино",
+              "value": "12537734"
+            },
+            {
+              "label": "Чертаново Северное",
+              "value": "12544137"
+            },
+            {
+              "label": "Левобережный",
+              "value": "11423066"
+            },
+            {
+              "label": "Северный административный округ",
+              "value": "12542526"
+            },
+            {
+              "label": "Чертаново Центральное",
+              "value": "12545742"
+            },
+            {
+              "label": "Орехово-Борисово Южное",
+              "value": "12543039"
+            },
+            {
+              "label": "Молжаниновский",
+              "value": "11387899"
+            },
+            {
+              "label": "Савёловский",
+              "value": "10873982"
+            },
+            {
+              "label": "городской округ Балашиха",
+              "value": "12478080"
+            },
+            {
+              "label": "Преображенское",
+              "value": "12542447"
+            },
+            {
+              "label": "Центральный административный округ",
+              "value": "12537744"
+            },
+            {
+              "label": "Черемушки",
+              "value": "12540340"
+            },
+            {
+              "label": "Северо-Восточный административный округ",
+              "value": "12525316"
+            },
+            {
+              "label": "Вешняки",
+              "value": "12547348"
+            },
+            {
+              "label": "Замоскворечье",
+              "value": "12549599"
+            },
+            {
+              "label": "Ясенево",
+              "value": "12545748"
+            },
+            {
+              "label": "Бутово",
+              "value": "12537728"
+            },
+            {
+              "label": "Коньково",
+              "value": "12548943"
+            },
+            {
+              "label": "Ивановское",
+              "value": "11386055"
+            },
+            {
+              "label": "Бабушкинский",
+              "value": "12511201"
+            },
+            {
+              "label": "Западное Дегунино",
+              "value": "12541406"
+            },
+            {
+              "label": "Очаково-Матвеевское",
+              "value": "12547347"
+            },
+            {
+              "label": "Ломоносовский район",
+              "value": "12540342"
+            },
+            {
+              "label": "Фили-Давыдково",
+              "value": "12545741"
+            },
+            {
+              "label": "Соколиная гора",
+              "value": "12540836"
+            },
+            {
+              "label": "Северо-Западный административный округ",
+              "value": "12537741"
+            },
+            {
+              "label": "Южный административный округ",
+              "value": "12544152"
+            },
+            {
+              "label": "Нагорный",
+              "value": "11388076"
+            },
+            {
+              "label": "Южное Медведково",
+              "value": "11426497"
+            },
+            {
+              "label": "район Восточный",
+              "value": "11408949"
+            },
+            {
+              "label": "Северное Бутово",
+              "value": "12549045"
+            }
+          ]
+        },
+        "accommodationType": {
+          "applied": false,
+          "items": [
+            {
+              "label": "Апарт-отели",
+              "value": "20"
+            },
+            {
+              "label": "Гостевые дома",
+              "value": "30"
+            },
+            {
+              "label": "Гостиницы",
+              "value": "8"
+            },
+            {
+              "label": "Дома для отпуска",
+              "value": "4"
+            },
+            {
+              "label": "Загородные дома",
+              "value": "24"
+            },
+            {
+              "label": "Капсульные отели",
+              "value": "43"
+            },
+            {
+              "label": "Квартиры ",
+              "value": "15"
+            },
+            {
+              "label": "Коттеджи",
+              "value": "11"
+            },
+            {
+              "label": "Курорты",
+              "value": "3"
+            },
+            {
+              "label": "Мини-отели",
+              "value": "5"
+            },
+            {
+              "label": "Отели",
+              "value": "1"
+            },
+            {
+              "label": "Стоянки для автофургонов",
+              "value": "21"
+            },
+            {
+              "label": "Хостелы",
+              "value": "12"
+            }
+          ]
+        },
+        "facilities": {
+          "applied": false,
+          "items": [
+            {
+              "label": "В цену включен Wi-Fi",
+              "value": "527"
+            },
+            {
+              "label": "Для некурящих",
+              "value": "529"
+            },
+            {
+              "label": "Завтрак включен",
+              "value": "2048"
+            },
+            {
+              "label": "Имеется парковка",
+              "value": "16384"
+            },
+            {
+              "label": "Казино",
+              "value": "2112"
+            },
+            {
+              "label": "Круглосуточная стойка регистрации",
+              "value": "2063"
+            },
+            {
+              "label": "Недалеко от лыжных трасс",
+              "value": "535"
+            },
+            {
+              "label": "Парковка включена",
+              "value": "134234112"
+            },
+            {
+              "label": "Пункт зарядки электромобилей",
+              "value": "1073743315"
+            },
+            {
+              "label": "Разрешено проживание с домашними животными",
+              "value": "64"
+            },
+            {
+              "label": "С автобусом до горнолыжных трасс",
+              "value": "531"
+            },
+            {
+              "label": "С баром",
+              "value": "515"
+            },
+            {
+              "label": "С бассейном",
+              "value": "128"
+            },
+            {
+              "label": "С бизнес-услугами",
+              "value": "519"
+            },
+            {
+              "label": "С ванной в номере",
+              "value": "517"
+            },
+            {
+              "label": "С детскими кроватками",
+              "value": "525"
+            },
+            {
+              "label": "С доступом в интернет",
+              "value": "8"
+            },
+            {
+              "label": "С зонами для курения",
+              "value": "537"
+            },
+            {
+              "label": "С конференц-залами",
+              "value": "1"
+            },
+            {
+              "label": "С кухней",
+              "value": "32"
+            },
+            {
+              "label": "С местом для хранения лыж",
+              "value": "533"
+            },
+            {
+              "label": "Со смежными номерами",
+              "value": "523"
+            },
+            {
+              "label": "Со спа-салоном",
+              "value": "539"
+            },
+            {
+              "label": "Со спортзалом",
+              "value": "2"
+            },
+            {
+              "label": "С присмотром за детьми",
+              "value": "521"
+            },
+            {
+              "label": "С рестораном",
+              "value": "256"
+            },
+            {
+              "label": "С трансфером до аэропорта",
+              "value": "513"
+            }
+          ]
+        },
+        "accessibility": {
+          "applied": false,
+          "items": [
+            {
+              "label": "Безбарьерный доступ",
+              "value": "65536"
+            },
+            {
+              "label": "Безбарьерный душ",
+              "value": "262144"
+            },
+            {
+              "label": "Ванная для маломобильных гостей",
+              "value": "131072"
+            },
+            {
+              "label": "Номера для маломобильных гостей",
+              "value": "541"
+            },
+            {
+              "label": "Оборудование для слабослышащих",
+              "value": "2097152"
+            },
+            {
+              "label": "Парковка, приспособленная для маломобильных гостей",
+              "value": "524288"
+            },
+            {
+              "label": "Тактильные указатели со шрифтом Брайля или рельефным шрифтом",
+              "value": "4194304"
+            },
+            {
+              "label": "Удобства в номерах для маломобильных гостей",
+              "value": "1048576"
+            }
+          ]
+        },
+        "themesAndTypes": {
+          "applied": false,
+          "items": [
+            {
+              "label": "Бутик",
+              "value": "4"
+            },
+            {
+              "label": "Для активного отдыха",
+              "value": "18"
+            },
+            {
+              "label": "Для гольфа",
+              "value": "26"
+            },
+            {
+              "label": "Для деловых людей",
+              "value": "14"
+            },
+            {
+              "label": "Для лыжного спорта",
+              "value": "28"
+            },
+            {
+              "label": "Для семейного отдыха",
+              "value": "25"
+            },
+            {
+              "label": "Исторические",
+              "value": "2"
+            },
+            {
+              "label": "Класса «люкс»",
+              "value": "15"
+            },
+            {
+              "label": "На виноградниках",
+              "value": "19"
+            },
+            {
+              "label": "На термальных источниках",
+              "value": "22"
+            },
+            {
+              "label": "Пляжные",
+              "value": "6"
+            },
+            {
+              "label": "Романтические",
+              "value": "1"
+            },
+            {
+              "label": "С казино",
+              "value": "8"
+            },
+            {
+              "label": "Спа",
+              "value": "27"
+            }
+          ]
+        },
+        "price": {
+          "label": "Цена (за 3 суток)",
+          "range": {
+            "min": {
+              "defaultValue": 0,
+              "value": 3000
+            },
+            "max": {
+              "defaultValue": 75000,
+              "value": 9000
+            },
+            "increments": 750
+          },
+          "multiplier": 3,
+          "applied": true
+        },
+        "paymentPreference": {
+          "items": [
+            {
+              "label": "Бесплатная отмена бронирования",
+              "value": "fc"
+            },
+            {
+              "label": "Забронировать без карты",
+              "value": "ncc"
+            }
+          ]
+        },
+        "welcomeRewards": {
+          "label": "Hotels.com™ Rewards",
+          "items": [
+            {
+              "label": "Получите штампы",
+              "value": "collect"
+            },
+            {
+              "label": "Используйте бонусные* сутки",
+              "value": "redeem"
+            }
+          ]
+        }
+      },
+      "pointOfSale": {
+        "currency": {
+          "code": "RUB",
+          "symbol": "RUB",
+          "separators": ",.",
+          "format": "{0} RUB"
+        }
+      },
+      "miscellaneous": {
+        "pageViewBeaconUrl": "/taps/v1/PageView?deviceType=App-Phone&sort-order=DISTANCE_FROM_LANDMARK&rooms=1&destRegionID=1153093&hotelIds=673909,923375808,1090063360,635372192,1618186624,1052971008,715601248,499942,684973024,573592,599425,677038,1204165984,850581728,468665&adults=1&userAgent=Hotels.com/Android%2056.1.1.9.release-56_1%20(56010472)&userGuid=ac33373f-cc0b-41e4-9a6e-8f007835661a&pageName=Hotel-Search&slots=HSR_A,HSR_B,HSR_C,HSR_D,HSR_E,HSR_F,HSR_G,HSR_H,HSR_I,HSR_J&checkIn=2021-08-10&children=0&culture=ru_RU&testVersionOverride=4961.0,904.0,7561.1,7215.0,8218.0,8711.0,KES,8928.1,9008.0,8347.2,9004.0,8952.0,7992.2,8915.0,9729.0,9864.0,10155.0,10185.0,10320.0,10361.0&domain=ru.hotels.com&userIP=127.0.0.1&action=pageview&publisher=expedia&checkOut=2021-08-13&programId=1",
+        "showLegalInfoForStrikethroughPrices": true,
+        "legalInfoForStrikethroughPrices": "Зачеркнутая цена основана на стандартном тарифе в нашем приложении, установленном и предоставленном объектом размещения."
+      },
+      "pageInfo": {
+        "pageType": "dateful"
+      }
+    },
+    "common": {
+      "pointOfSale": {
+        "numberSeparators": " ,",
+        "brandName": "Hotels.com"
+      },
+      "tracking": {
+        "omniture": {
+          "s.products": "LOCAL;17730434,MULTISOURCE;28824244,LOCAL;34033230",
+          "s.eVar40": "D=v0",
+          "s.eVar41": "RUB",
+          "s.eVar42": "2|3|20210810|20210813",
+          "s.eVar4": "|SI:anonymous|VS:returnVisitor|HCR:notApplicable|FC:notApplicable|NS:unknown|TI:notApplicable|SM:notApplicable|IR:anonymous|",
+          "s.eVar43": "ru_RU|HCOM_RU|ru.hotels.com",
+          "s.eVar3": "1|0",
+          "s.eVar2": "Москва, Россия",
+          "s.eVar7": "2",
+          "s.server": "ru.hotels.com",
+          "s.eVar6": "1153093",
+          "s.eVar5": "1",
+          "s.eVar9": "Distance to other landmark near to far",
+          "s.prop22": "Price - RUB3000-9000",
+          "s.prop21": "0",
+          "s.prop20": "1",
+          "s.currencyCode": "RUB",
+          "s.prop9": "2592",
+          "s.eVar95": "Unknown",
+          "s.prop7": "2572",
+          "s.eVar10": "Price - RUB3000-9000",
+          "s.eVar13": "389273",
+          "s.prop19": "1",
+          "s.prop18": "D=v6",
+          "s.prop5": "389273",
+          "s.prop15": "3",
+          "s.prop3": "Москва, Россия",
+          "s.prop14": "D=v7",
+          "s.eVar93": "aws.us-west-2.unknown",
+          "s.prop2": "Distance to other landmark near to far",
+          "s.prop33": "D=v33",
+          "s.prop32": "D=v43",
+          "s.prop74": "search result with dates | ms shown | N",
+          "s.eVar16": "Mob :: aApp",
+          "s.eVar63": "7f3f598c-07e5-49ab-bb01-3d604ddcb02a",
+          "s.eVar22": "2|RUB|24:673909:8970.00:8970.00:0|24:923375808:9600.00:8640.00:0|24:1090063360:14400.00:8352.00:0|24:635372192:4470.00:4246.53:0|24:1618186624:3840.00:3456.00:0",
+          "s.eVar23": "2|RUB|24:1052971008:3505.50:3505.50:0|24:715601248:4470.00:4470.00:0|24:499942:9600.00:8640.00:0|24:684973024:8400.00:7560.00:0|24:573592:3870.00:3483.00:0",
+          "s.eVar24": "MCTC=20;TU=NA;PDID=NULL;MVT=",
+          "s.prop29": "D=v42",
+          "s.prop27": "ac33373f-cc0b-41e4-9a6e-8f007835661a",
+          "s.eVar69": "Mob :: aApp",
+          "s.eVar26": "US:TX:HOUSTON:618",
+          "s.eVar29": "Mob :: aApp",
+          "s.eVar31": "D=v0",
+          "s.eVar32": "D=v0",
+          "s.eVar33": "search result with dates",
+          "s.eVar34": "H1871:007.002,M376:155.001,M904:000.000,M3736:000.000,M4200:000.000,M4440.2,M4869:001.000,M4952:048.000,M4961:001.000,M5184:001.000,M5342:000.000,M5663:000.000,M6388:000.000,M6775:000.000,M6779:000.000,M7015.1,M7192:000.000,M7215:000.000,M7296:000.000,M7305:000.000,M7353:000.000,M7362.0,M7552:023.001,M7763:000.000,M7765.2,M7870:000.000,M7895:000.000,M8336:000.000,M8347:019.002,M8483:000.000,M8692:000.000,M8693:000.000,M8698:000.000,M8708:000.000,M8714:000.000,M8718:000.000,M8915:000.000,M8928:019.001,M8952:000.000,M8954:000.000,M8976:000.000,M8992:000.000,M9035:000.000,M9220:000.000,M9281:000.000,M9282:000.000,M9297:000.000,M9301:000.000,M9351:000.000,M9420:000.000,M9431:000.000,M9469:000.000,M9549:000.000,M9567.1,M9691:000.000,M9693:000.000,M9699:004.001,M9729:000.000,M9752:000.000,M9771:000.000,M9864:000.000,M9924:006.002,M9961:000.000,M9971:000.000,M10001:000.000,M10007:000.000,M10013:002.001,M10085:000.000,M10121:000.000,M10137:000.000,M10155:000.000,M10185:000.000,M10248:000.000,M10255:003.001,M10259:000.000,M10282:000.000,M10300:000.000,M10320:000.000,M10361:000.000,41379:120248.001,M9215:001.000",
+          "s.events": "event324,event320",
+          "s.prop36": "|SI:anonymous|VS:returnVisitor|HCR:notApplicable|FC:notApplicable|NS:unknown|TI:notApplicable|SM:notApplicable|IR:anonymous|"
+        }
+      }
+    }
+  }
+}

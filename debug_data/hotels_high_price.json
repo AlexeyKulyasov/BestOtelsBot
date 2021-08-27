@@ -1,0 +1,2994 @@
+{
+  "result": "OK",
+  "data": {
+    "body": {
+      "header": "Москва, Россия",
+      "query": {
+        "destination": {
+          "id": "1153093",
+          "value": "Москва, Россия",
+          "resolvedLocation": "CITY:1153093:UNKNOWN:UNKNOWN"
+        }
+      },
+      "searchResults": {
+        "totalCount": 2566,
+        "results": [
+          {
+            "id": 1619001472,
+            "name": "Grand Wellness Novahovo Hotel & Spa",
+            "starRating": 4.0,
+            "urls": {},
+            "address": {
+              "streetAddress": "ул. Гагарина, 23",
+              "extendedAddress": "",
+              "locality": "Николо-Урюпино",
+              "postalCode": "143421",
+              "region": "",
+              "countryName": "Россия",
+              "countryCode": "ru",
+              "obfuscate": false
+            },
+            "welcomeRewards": {
+              "collect": true
+            },
+            "guestReviews": {
+              "unformattedRating": 9.2,
+              "rating": "9,2",
+              "total": 5,
+              "scale": 10,
+              "badge": "superb",
+              "badgeText": "Потрясающе"
+            },
+            "landmarks": [
+              {
+                "label": "Центр города",
+                "distance": "26 км"
+              },
+              {
+                "label": "Третье транспортное кольцо",
+                "distance": "27 км"
+              }
+            ],
+            "geoBullets": [],
+            "ratePlan": {
+              "price": {
+                "current": "35,127 RUB",
+                "exactCurrent": 35127.0,
+                "old": "39,030 RUB",
+                "info": "за 1 номер на 3 суток",
+                "summary": "включая налоги и сборы"
+              },
+              "features": {
+                "freeCancellation": false,
+                "paymentPreference": true,
+                "noCCRequired": false
+              },
+              "type": "Dual"
+            },
+            "neighbourhood": "городской округ Красногорск",
+            "deals": {
+              "secretPrice": {
+                "dealText": "Экономьте больше с нашими секретными ценами!"
+              },
+              "priceReasoning": "DRR-443"
+            },
+            "messaging": {
+              "scarcity": "2 осталось в нашем приложении"
+            },
+            "badging": {},
+            "pimmsAttributes": "DoubleStamps|D13",
+            "coordinate": {
+              "lat": 55.798424,
+              "lon": 37.204146
+            },
+            "roomsLeft": 2,
+            "providerType": "LOCAL",
+            "supplierHotelId": 50562546,
+            "isAlternative": false,
+            "optimizedThumbUrls": {
+              "srpDesktop": "https://thumbnails.trvl-media.com/bf6zsZYzp8FYM1Gx7XvcK6bOgY8=/250x140/smart/filters:quality(60)/images.trvl-media.com/hotels/51000000/50570000/50562600/50562546/a07651b4_z.jpg"
+            }
+          },
+          {
+            "id": 721295776,
+            "name": "Бутик-отель «Барвиха-хауз»",
+            "starRating": 3.5,
+            "urls": {},
+            "address": {
+              "streetAddress": "Барвиха, 72а",
+              "extendedAddress": "Округ Одинцово",
+              "locality": "Барвиха",
+              "postalCode": "143082",
+              "region": "Московская обл.",
+              "countryName": "Россия",
+              "countryCode": "ru",
+              "obfuscate": false
+            },
+            "welcomeRewards": {
+              "collect": true
+            },
+            "guestReviews": {
+              "unformattedRating": 10.0,
+              "rating": "10,0",
+              "total": 1,
+              "scale": 10,
+              "badge": "exceptional",
+              "badgeText": "Великолепно"
+            },
+            "landmarks": [
+              {
+                "label": "Центр города",
+                "distance": "22 км"
+              },
+              {
+                "label": "Третье транспортное кольцо",
+                "distance": "22 км"
+              }
+            ],
+            "geoBullets": [],
+            "ratePlan": {
+              "price": {
+                "current": "32,400 RUB",
+                "exactCurrent": 32400.0,
+                "old": "36,000 RUB",
+                "info": "за 1 номер на 3 суток",
+                "summary": "включая налоги и сборы"
+              },
+              "features": {
+                "freeCancellation": false,
+                "paymentPreference": true,
+                "noCCRequired": false
+              },
+              "type": "Dual"
+            },
+            "neighbourhood": "Барвиха",
+            "deals": {
+              "specialDeal": {
+                "dealText": "Только сегодня: сэкономьте 10 %"
+              },
+              "priceReasoning": "DRR-439"
+            },
+            "messaging": {
+              "scarcity": "1 остался в нашем приложении"
+            },
+            "badging": {},
+            "pimmsAttributes": "DoubleStamps|D13|TESCO",
+            "coordinate": {
+              "lat": 55.740217,
+              "lon": 37.269496
+            },
+            "roomsLeft": 1,
+            "providerType": "LOCAL",
+            "supplierHotelId": 22509243,
+            "isAlternative": false,
+            "optimizedThumbUrls": {
+              "srpDesktop": "https://thumbnails.trvl-media.com/kFFesQt1nk2NV33JISsPz9cXCpo=/250x140/smart/filters:quality(60)/images.trvl-media.com/hotels/23000000/22510000/22509300/22509243/b70d2041_z.jpg"
+            }
+          },
+          {
+            "id": 690704992,
+            "name": "Загородный отель «Лесной»",
+            "starRating": 4.0,
+            "urls": {},
+            "address": {
+              "streetAddress": "ул. Школьная, 6а",
+              "extendedAddress": "",
+              "locality": "Лесной Городок",
+              "postalCode": "143080",
+              "region": "Московская обл.",
+              "countryName": "Россия",
+              "countryCode": "ru",
+              "obfuscate": false
+            },
+            "welcomeRewards": {
+              "collect": true
+            },
+            "guestReviews": {
+              "unformattedRating": 9.0,
+              "rating": "9,0",
+              "total": 13,
+              "scale": 10,
+              "badge": "superb",
+              "badgeText": "Потрясающе"
+            },
+            "landmarks": [
+              {
+                "label": "Центр города",
+                "distance": "29 км"
+              },
+              {
+                "label": "Третье транспортное кольцо",
+                "distance": "28 км"
+              }
+            ],
+            "geoBullets": [],
+            "ratePlan": {
+              "price": {
+                "current": "32,130 RUB",
+                "exactCurrent": 32130.0,
+                "old": "35,700 RUB",
+                "info": "за 1 номер на 3 суток",
+                "summary": "включая налоги и сборы"
+              },
+              "features": {
+                "freeCancellation": false,
+                "paymentPreference": true,
+                "noCCRequired": false
+              },
+              "type": "Dual"
+            },
+            "neighbourhood": "Лесной Городок",
+            "deals": {
+              "secretPrice": {
+                "dealText": "Экономьте больше с нашими секретными ценами!"
+              },
+              "priceReasoning": "DRR-443"
+            },
+            "messaging": {
+              "scarcity": "1 остался в нашем приложении"
+            },
+            "badging": {},
+            "pimmsAttributes": "DoubleStamps|D13|TESCO",
+            "coordinate": {
+              "lat": 55.633699,
+              "lon": 37.211131
+            },
+            "roomsLeft": 1,
+            "providerType": "LOCAL",
+            "supplierHotelId": 21553281,
+            "isAlternative": false,
+            "optimizedThumbUrls": {
+              "srpDesktop": "https://thumbnails.trvl-media.com/1Nr7R1GXiKjA-QwsoLDeAaK9oZY=/250x140/smart/filters:quality(60)/images.trvl-media.com/hotels/22000000/21560000/21553300/21553281/8d1fd915_z.jpg"
+            }
+          },
+          {
+            "id": 952960256,
+            "name": "Отель «Феликс»",
+            "starRating": 4.0,
+            "urls": {},
+            "address": {
+              "streetAddress": "Petrovka 19, stroenie 3",
+              "extendedAddress": "",
+              "locality": "Москва",
+              "postalCode": "127051",
+              "region": "",
+              "countryName": "Россия",
+              "countryCode": "ru",
+              "obfuscate": false
+            },
+            "welcomeRewards": {
+              "collect": true
+            },
+            "guestReviews": {
+              "unformattedRating": 4.8,
+              "rating": "4,8",
+              "total": 8,
+              "scale": 10
+            },
+            "landmarks": [
+              {
+                "label": "Центр города",
+                "distance": "0,9 км"
+              },
+              {
+                "label": "Третье транспортное кольцо",
+                "distance": "2,1 км"
+              }
+            ],
+            "geoBullets": [],
+            "ratePlan": {
+              "price": {
+                "current": "30,600 RUB",
+                "exactCurrent": 30600.0,
+                "info": "за 1 номер на 3 суток",
+                "summary": "включая налоги и сборы"
+              },
+              "features": {
+                "freeCancellation": false,
+                "paymentPreference": false,
+                "noCCRequired": false
+              },
+              "type": "EC"
+            },
+            "neighbourhood": "Центральный административный округ",
+            "deals": {},
+            "messaging": {},
+            "badging": {},
+            "pimmsAttributes": "DoubleStamps|D13|TESCO",
+            "coordinate": {
+              "lat": 55.76507,
+              "lon": 37.61559
+            },
+            "providerType": "LOCAL",
+            "supplierHotelId": 29748758,
+            "isAlternative": false,
+            "optimizedThumbUrls": {
+              "srpDesktop": "https://thumbnails.trvl-media.com/wkyl8Z8WXlFWAizPvZWoxOjClO4=/250x140/smart/filters:quality(60)/images.trvl-media.com/hotels/30000000/29750000/29748800/29748758/dec1c41d_z.jpg"
+            }
+          },
+          {
+            "id": 463809,
+            "name": "Гостиница «Марриотт Новый Арбат»",
+            "starRating": 5.0,
+            "urls": {},
+            "address": {
+              "streetAddress": "ул. Новый Арбат, 32",
+              "extendedAddress": "",
+              "locality": "Москва",
+              "postalCode": "121099",
+              "region": "",
+              "countryName": "Россия",
+              "countryCode": "ru",
+              "obfuscate": false
+            },
+            "welcomeRewards": {
+              "collect": true
+            },
+            "guestReviews": {
+              "unformattedRating": 8.6,
+              "rating": "8,6",
+              "total": 81,
+              "scale": 10,
+              "badge": "fabulous",
+              "badgeText": "Превосходно"
+            },
+            "landmarks": [
+              {
+                "label": "Центр города",
+                "distance": "2,2 км"
+              },
+              {
+                "label": "Третье транспортное кольцо",
+                "distance": "2,5 км"
+              }
+            ],
+            "geoBullets": [],
+            "ratePlan": {
+              "price": {
+                "current": "29,760 RUB",
+                "exactCurrent": 29760.0,
+                "info": "за 1 номер на 3 суток",
+                "summary": "включая налоги и сборы"
+              },
+              "features": {
+                "freeCancellation": false,
+                "paymentPreference": true,
+                "noCCRequired": false
+              },
+              "type": "Dual"
+            },
+            "neighbourhood": "Арбат",
+            "deals": {},
+            "messaging": {
+              "scarcity": "4 осталось в нашем приложении"
+            },
+            "badging": {},
+            "pimmsAttributes": "DoubleStamps|TESCO",
+            "coordinate": {
+              "lat": 55.752683,
+              "lon": 37.58058
+            },
+            "roomsLeft": 4,
+            "providerType": "LOCAL",
+            "supplierHotelId": 8436096,
+            "isAlternative": false,
+            "optimizedThumbUrls": {
+              "srpDesktop": "https://thumbnails.trvl-media.com/So9LPU12amcPfbkrjLVfwx_P3H8=/250x140/smart/filters:quality(60)/images.trvl-media.com/hotels/9000000/8440000/8436100/8436096/e27f1524_z.jpg"
+            }
+          },
+          {
+            "id": 800646208,
+            "name": "Бутик-отель PR Myasnitsky",
+            "starRating": 4.0,
+            "urls": {},
+            "address": {
+              "streetAddress": "ул. Мясницкая, 13, стр. 3",
+              "extendedAddress": "",
+              "locality": "Москва",
+              "postalCode": "",
+              "region": "",
+              "countryName": "Россия",
+              "countryCode": "ru",
+              "obfuscate": false
+            },
+            "welcomeRewards": {
+              "collect": true
+            },
+            "guestReviews": {
+              "unformattedRating": 9.4,
+              "rating": "9,4",
+              "total": 51,
+              "scale": 10,
+              "badge": "exceptional",
+              "badgeText": "Великолепно"
+            },
+            "landmarks": [
+              {
+                "label": "Центр города",
+                "distance": "1,4 км"
+              },
+              {
+                "label": "Третье транспортное кольцо",
+                "distance": "2,0 км"
+              }
+            ],
+            "geoBullets": [],
+            "ratePlan": {
+              "price": {
+                "current": "29,700 RUB",
+                "exactCurrent": 29700.0,
+                "info": "за 1 номер на 3 суток",
+                "summary": "включая налоги и сборы"
+              },
+              "features": {
+                "freeCancellation": false,
+                "paymentPreference": false,
+                "noCCRequired": false
+              },
+              "type": "EC"
+            },
+            "neighbourhood": "Центральный административный округ",
+            "deals": {},
+            "messaging": {
+              "scarcity": "2 осталось в нашем приложении"
+            },
+            "badging": {},
+            "pimmsAttributes": "DoubleStamps|D13|TESCO",
+            "coordinate": {
+              "lat": 55.762376,
+              "lon": 37.63445
+            },
+            "roomsLeft": 2,
+            "providerType": "LOCAL",
+            "supplierHotelId": 24988944,
+            "isAlternative": false,
+            "optimizedThumbUrls": {
+              "srpDesktop": "https://thumbnails.trvl-media.com/KuEH2b0UuKmRkHFKJuoMmpDJreA=/250x140/smart/filters:quality(60)/images.trvl-media.com/hotels/25000000/24990000/24989000/24988944/5de3f4e1_z.jpg"
+            }
+          },
+          {
+            "id": 1336823840,
+            "name": "Резиденция «Барин» Мясницкая",
+            "starRating": 3.0,
+            "urls": {},
+            "address": {
+              "streetAddress": "Милютинский пер., 9, стр. 2",
+              "extendedAddress": "",
+              "locality": "Москва",
+              "postalCode": "101000",
+              "region": "",
+              "countryName": "Россия",
+              "countryCode": "ru",
+              "obfuscate": false
+            },
+            "welcomeRewards": {
+              "collect": true
+            },
+            "guestReviews": {
+              "unformattedRating": 7.0,
+              "rating": "7,0",
+              "total": 2,
+              "scale": 10,
+              "badge": "good",
+              "badgeText": "Хорошо"
+            },
+            "landmarks": [
+              {
+                "label": "Центр города",
+                "distance": "1,2 км"
+              },
+              {
+                "label": "Третье транспортное кольцо",
+                "distance": "1,9 км"
+              }
+            ],
+            "geoBullets": [],
+            "ratePlan": {
+              "price": {
+                "current": "28,431 RUB",
+                "exactCurrent": 28431.0,
+                "old": "31,590 RUB",
+                "info": "за 1 номер на 3 суток",
+                "summary": "включая налоги и сборы"
+              },
+              "features": {
+                "freeCancellation": false,
+                "paymentPreference": true,
+                "noCCRequired": true
+              },
+              "type": "Dual"
+            },
+            "neighbourhood": "Центральный административный округ",
+            "deals": {
+              "secretPrice": {
+                "dealText": "Экономьте больше с нашими секретными ценами!"
+              },
+              "priceReasoning": "DRR-443"
+            },
+            "messaging": {
+              "scarcity": "3 осталось в нашем приложении"
+            },
+            "badging": {},
+            "pimmsAttributes": "DoubleStamps|D13|HRW",
+            "coordinate": {
+              "lat": 55.76152,
+              "lon": 37.6317
+            },
+            "roomsLeft": 3,
+            "providerType": "LOCAL",
+            "supplierHotelId": 41744495,
+            "isAlternative": false,
+            "optimizedThumbUrls": {
+              "srpDesktop": "https://thumbnails.trvl-media.com/aN6Nzqs7aAqzQC7u1SNworsYHKY=/250x140/smart/filters:quality(60)/images.trvl-media.com/hotels/42000000/41750000/41744500/41744495/568e4886_z.jpg"
+            }
+          },
+          {
+            "id": 226623,
+            "name": "Отель Chekhoff Hotel Moscow Curio Collection by Hilton",
+            "starRating": 5.0,
+            "urls": {},
+            "address": {
+              "streetAddress": "ул. Малая Дмитровка,  11",
+              "extendedAddress": "",
+              "locality": "Москва",
+              "postalCode": "127006",
+              "region": "",
+              "countryName": "Россия",
+              "countryCode": "ru",
+              "obfuscate": false
+            },
+            "welcomeRewards": {
+              "collect": true
+            },
+            "guestReviews": {
+              "unformattedRating": 9.0,
+              "rating": "9,0",
+              "total": 50,
+              "scale": 10,
+              "badge": "superb",
+              "badgeText": "Потрясающе"
+            },
+            "landmarks": [
+              {
+                "label": "Центр города",
+                "distance": "1,5 км"
+              },
+              {
+                "label": "Третье транспортное кольцо",
+                "distance": "2,6 км"
+              }
+            ],
+            "geoBullets": [],
+            "ratePlan": {
+              "price": {
+                "current": "27,600 RUB",
+                "exactCurrent": 27600.0,
+                "old": "28,800 RUB",
+                "info": "за 1 номер на 3 суток",
+                "summary": "включая налоги и сборы"
+              },
+              "features": {
+                "freeCancellation": false,
+                "paymentPreference": false,
+                "noCCRequired": false
+              },
+              "type": "EC"
+            },
+            "neighbourhood": "Тверской",
+            "deals": {},
+            "messaging": {},
+            "badging": {},
+            "pimmsAttributes": "DoubleStamps|priceRangeUK|increaseNumberOfReviewsRequired|TESCO",
+            "coordinate": {
+              "lat": 55.769,
+              "lon": 37.60541
+            },
+            "providerType": "LOCAL",
+            "supplierHotelId": 1162762,
+            "isAlternative": false,
+            "optimizedThumbUrls": {
+              "srpDesktop": "https://thumbnails.trvl-media.com/mVffn-FiLrAFc06pJC6ETEjDtzI=/250x140/smart/filters:quality(60)/images.trvl-media.com/hotels/2000000/1170000/1162800/1162762/1110b989_z.jpg"
+            }
+          },
+          {
+            "id": 864041728,
+            "name": "Апартаменты Modern Chic",
+            "starRating": 3.0,
+            "urls": {},
+            "address": {
+              "locality": "Москва",
+              "region": "",
+              "countryName": "Россия",
+              "countryCode": "ru",
+              "obfuscate": false
+            },
+            "welcomeRewards": {
+              "collect": true
+            },
+            "landmarks": [
+              {
+                "label": "Центр города",
+                "distance": "6,0 км"
+              },
+              {
+                "label": "Третье транспортное кольцо",
+                "distance": "6,9 км"
+              }
+            ],
+            "geoBullets": [],
+            "ratePlan": {
+              "price": {
+                "current": "27,400 RUB",
+                "exactCurrent": 27400.0,
+                "info": "за 1 квартиру на 3 суток",
+                "summary": "включая налоги и сборы"
+              },
+              "features": {
+                "freeCancellation": false,
+                "paymentPreference": false,
+                "noCCRequired": false
+              },
+              "type": "HC"
+            },
+            "neighbourhood": "Хорошевский",
+            "deals": {},
+            "messaging": {
+              "scarcity": "1 остался в нашем приложении"
+            },
+            "badging": {},
+            "pimmsAttributes": "DoubleStamps|D13|TESCO",
+            "coordinate": {
+              "lat": 55.78871,
+              "lon": 37.53767
+            },
+            "roomsLeft": 1,
+            "providerType": "LOCAL",
+            "supplierHotelId": 26970054,
+            "vrBadge": "Квартира",
+            "isAlternative": false,
+            "optimizedThumbUrls": {
+              "srpDesktop": "https://thumbnails.trvl-media.com/UQyPtur26EhitKEULNbU79fNXI4=/250x140/smart/filters:quality(60)/images.trvl-media.com/hotels/27000000/26980000/26970100/26970054/8fded5ce_z.jpg"
+            }
+          },
+          {
+            "id": 474681,
+            "name": "Отель «Империя-Сити»",
+            "starRating": 3.0,
+            "urls": {},
+            "address": {
+              "streetAddress": "Пресненская набережная, 6, стр. 2",
+              "extendedAddress": "",
+              "locality": "Москва",
+              "postalCode": "123317",
+              "region": "",
+              "countryName": "Россия",
+              "countryCode": "ru",
+              "obfuscate": false
+            },
+            "welcomeRewards": {
+              "collect": true
+            },
+            "guestReviews": {
+              "unformattedRating": 7.2,
+              "rating": "7,2",
+              "total": 17,
+              "scale": 10,
+              "badge": "good",
+              "badgeText": "Хорошо"
+            },
+            "landmarks": [
+              {
+                "label": "Центр города",
+                "distance": "4,9 км"
+              },
+              {
+                "label": "Третье транспортное кольцо",
+                "distance": "5,0 км"
+              }
+            ],
+            "geoBullets": [],
+            "ratePlan": {
+              "price": {
+                "current": "27,000 RUB",
+                "exactCurrent": 27000.0,
+                "old": "30,000 RUB",
+                "info": "за 1 номер на 3 суток",
+                "summary": "включая налоги и сборы"
+              },
+              "features": {
+                "freeCancellation": false,
+                "paymentPreference": true,
+                "noCCRequired": true
+              },
+              "type": "Dual"
+            },
+            "neighbourhood": "Пресненский",
+            "deals": {
+              "secretPrice": {
+                "dealText": "Экономьте больше с нашими секретными ценами!"
+              },
+              "priceReasoning": "DRR-443"
+            },
+            "messaging": {
+              "scarcity": "2 осталось в нашем приложении"
+            },
+            "badging": {},
+            "pimmsAttributes": "DoubleStamps|D13|TESCO",
+            "coordinate": {
+              "lat": 55.74815,
+              "lon": 37.53893
+            },
+            "roomsLeft": 2,
+            "providerType": "LOCAL",
+            "supplierHotelId": 9026750,
+            "isAlternative": false,
+            "optimizedThumbUrls": {
+              "srpDesktop": "https://thumbnails.trvl-media.com/QWHVD-jvt-XQRaUSMkXFruyY9LM=/250x140/smart/filters:quality(60)/images.trvl-media.com/hotels/10000000/9030000/9026800/9026750/1b70f5b2_z.jpg"
+            }
+          },
+          {
+            "id": 262043,
+            "name": "Mamaison All-Suites Spa Hotel Покровка Moсква",
+            "starRating": 5.0,
+            "urls": {},
+            "address": {
+              "streetAddress": "ул. Покровка, 40, строение 2 ",
+              "extendedAddress": "",
+              "locality": "Москва",
+              "postalCode": "105062",
+              "region": "",
+              "countryName": "Россия",
+              "countryCode": "ru",
+              "obfuscate": false
+            },
+            "welcomeRewards": {
+              "collect": true
+            },
+            "guestReviews": {
+              "unformattedRating": 9.2,
+              "rating": "9,2",
+              "total": 20,
+              "scale": 10,
+              "badge": "superb",
+              "badgeText": "Потрясающе"
+            },
+            "landmarks": [
+              {
+                "label": "Центр города",
+                "distance": "2,4 км"
+              },
+              {
+                "label": "Третье транспортное кольцо",
+                "distance": "2,7 км"
+              }
+            ],
+            "geoBullets": [],
+            "ratePlan": {
+              "price": {
+                "current": "26,527 RUB",
+                "exactCurrent": 26527.05,
+                "info": "за 1 номер на 3 суток",
+                "summary": "включая налоги и сборы"
+              },
+              "features": {
+                "freeCancellation": false,
+                "paymentPreference": false,
+                "noCCRequired": false
+              },
+              "type": "EC"
+            },
+            "neighbourhood": "Басманный",
+            "deals": {},
+            "messaging": {
+              "scarcity": "4 осталось в нашем приложении"
+            },
+            "badging": {},
+            "pimmsAttributes": "DoubleStamps|D13|TESCO",
+            "coordinate": {
+              "lat": 55.76203,
+              "lon": 37.65234
+            },
+            "roomsLeft": 4,
+            "providerType": "LOCAL",
+            "supplierHotelId": 1738585,
+            "isAlternative": false,
+            "optimizedThumbUrls": {
+              "srpDesktop": "https://thumbnails.trvl-media.com/nvpdguTC6YmaSI5_kax41-hVoXk=/250x140/smart/filters:quality(60)/images.trvl-media.com/hotels/2000000/1740000/1738600/1738585/6c1b9f49_z.jpg"
+            }
+          },
+          {
+            "id": 672407,
+            "name": "Бутик-отель Villa Kadashi",
+            "starRating": 4.0,
+            "urls": {},
+            "address": {
+              "streetAddress": "2-й Кадашевский пер., д. 16, стр. 1",
+              "extendedAddress": "Якиманка",
+              "locality": "Москва",
+              "postalCode": "113035",
+              "region": "",
+              "countryName": "Россия",
+              "countryCode": "ru",
+              "obfuscate": false
+            },
+            "welcomeRewards": {
+              "collect": true
+            },
+            "guestReviews": {
+              "unformattedRating": 9.2,
+              "rating": "9,2",
+              "total": 52,
+              "scale": 10,
+              "badge": "superb",
+              "badgeText": "Потрясающе"
+            },
+            "landmarks": [
+              {
+                "label": "Центр города",
+                "distance": "1,5 км"
+              },
+              {
+                "label": "Третье транспортное кольцо",
+                "distance": "0,4 км"
+              }
+            ],
+            "geoBullets": [],
+            "ratePlan": {
+              "price": {
+                "current": "26,100 RUB",
+                "exactCurrent": 26100.0,
+                "old": "29,000 RUB",
+                "info": "за 1 номер на 3 суток",
+                "summary": "включая налоги и сборы"
+              },
+              "features": {
+                "freeCancellation": false,
+                "paymentPreference": true,
+                "noCCRequired": true
+              },
+              "type": "Dual"
+            },
+            "neighbourhood": "Центр Москвы",
+            "deals": {
+              "secretPrice": {
+                "dealText": "Экономьте больше с нашими секретными ценами!"
+              },
+              "priceReasoning": "DRR-443"
+            },
+            "messaging": {
+              "scarcity": "1 остался в нашем приложении"
+            },
+            "badging": {},
+            "pimmsAttributes": "DoubleStamps|D13|TESCO",
+            "coordinate": {
+              "lat": 55.74368,
+              "lon": 37.62198
+            },
+            "roomsLeft": 1,
+            "providerType": "LOCAL",
+            "supplierHotelId": 17691907,
+            "isAlternative": false,
+            "optimizedThumbUrls": {
+              "srpDesktop": "https://thumbnails.trvl-media.com/qFi_NW8XWgiwuM0UJPTgxHjlu4Y=/250x140/smart/filters:quality(60)/images.trvl-media.com/hotels/18000000/17700000/17692000/17691907/ad9b63d6_z.jpg"
+            }
+          },
+          {
+            "id": 1046237088,
+            "name": "Отель Radisson Blu Олимпийский",
+            "starRating": 5.0,
+            "urls": {},
+            "address": {
+              "streetAddress": "ул. Самарская, 1",
+              "extendedAddress": "",
+              "locality": "Москва",
+              "postalCode": "129110",
+              "region": "",
+              "countryName": "Россия",
+              "countryCode": "ru",
+              "obfuscate": false
+            },
+            "welcomeRewards": {
+              "collect": true
+            },
+            "guestReviews": {
+              "unformattedRating": 9.0,
+              "rating": "9,0",
+              "total": 64,
+              "scale": 10,
+              "badge": "superb",
+              "badgeText": "Потрясающе"
+            },
+            "landmarks": [
+              {
+                "label": "Центр города",
+                "distance": "3,1 км"
+              },
+              {
+                "label": "Третье транспортное кольцо",
+                "distance": "4,2 км"
+              }
+            ],
+            "geoBullets": [],
+            "ratePlan": {
+              "price": {
+                "current": "25,632 RUB",
+                "exactCurrent": 25632.0,
+                "info": "за 1 номер на 3 суток",
+                "summary": "включая налоги и сборы"
+              },
+              "features": {
+                "freeCancellation": false,
+                "paymentPreference": false,
+                "noCCRequired": false
+              },
+              "type": "EC"
+            },
+            "neighbourhood": "Мещанский район",
+            "deals": {},
+            "messaging": {},
+            "badging": {
+              "hotelBadge": {
+                "type": "vipBasic",
+                "label": "VIP"
+              }
+            },
+            "pimmsAttributes": "DoubleStamps|TESCO",
+            "coordinate": {
+              "lat": 55.78434,
+              "lon": 37.62622
+            },
+            "providerType": "LOCAL",
+            "supplierHotelId": 32663659,
+            "isAlternative": false,
+            "optimizedThumbUrls": {
+              "srpDesktop": "https://thumbnails.trvl-media.com/l8iKFPBg6BPPLrNaTmST7QlQO2E=/250x140/smart/filters:quality(60)/images.trvl-media.com/hotels/33000000/32670000/32663700/32663659/3fde272c_z.jpg"
+            }
+          },
+          {
+            "id": 264240,
+            "name": "Краун Плаза Москва - Международный Центр Торговли",
+            "starRating": 5.0,
+            "urls": {},
+            "address": {
+              "streetAddress": "Краснопресненская наб., 12",
+              "extendedAddress": "",
+              "locality": "Москва",
+              "postalCode": "123610",
+              "region": "",
+              "countryName": "Россия",
+              "countryCode": "ru",
+              "obfuscate": false
+            },
+            "welcomeRewards": {
+              "collect": true
+            },
+            "guestReviews": {
+              "unformattedRating": 8.8,
+              "rating": "8,8",
+              "total": 237,
+              "scale": 10,
+              "badge": "fabulous",
+              "badgeText": "Превосходно"
+            },
+            "landmarks": [
+              {
+                "label": "Центр города",
+                "distance": "3,5 км"
+              },
+              {
+                "label": "Третье транспортное кольцо",
+                "distance": "3,8 км"
+              }
+            ],
+            "geoBullets": [],
+            "ratePlan": {
+              "price": {
+                "current": "25,200 RUB",
+                "exactCurrent": 25200.0,
+                "info": "за 1 номер на 3 суток",
+                "summary": "включая налоги и сборы"
+              },
+              "features": {
+                "freeCancellation": false,
+                "paymentPreference": true,
+                "noCCRequired": true
+              },
+              "type": "Dual"
+            },
+            "neighbourhood": "Пресненский",
+            "deals": {},
+            "messaging": {
+              "scarcity": "1 остался в нашем приложении"
+            },
+            "badging": {},
+            "pimmsAttributes": "DoubleStamps|TESCO",
+            "coordinate": {
+              "lat": 55.754172,
+              "lon": 37.559117
+            },
+            "roomsLeft": 1,
+            "providerType": "LOCAL",
+            "supplierHotelId": 520498,
+            "isAlternative": false,
+            "optimizedThumbUrls": {
+              "srpDesktop": "https://thumbnails.trvl-media.com/I8S8CyFwLanr1qLYxaYI-UQWoCs=/250x140/smart/filters:quality(60)/images.trvl-media.com/hotels/1000000/530000/520500/520498/a85e848e_z.jpg"
+            }
+          },
+          {
+            "id": 336395,
+            "name": "Бутик-отель «Триумф Палас»",
+            "starRating": 5.0,
+            "urls": {},
+            "address": {
+              "streetAddress": "Чапаевский переулок, 3",
+              "extendedAddress": "",
+              "locality": "Москва",
+              "postalCode": "125057",
+              "region": "",
+              "countryName": "Россия",
+              "countryCode": "ru",
+              "obfuscate": false
+            },
+            "welcomeRewards": {
+              "collect": true
+            },
+            "guestReviews": {
+              "unformattedRating": 7.6,
+              "rating": "7,6",
+              "total": 6,
+              "scale": 10,
+              "badge": "good",
+              "badgeText": "Хорошо"
+            },
+            "landmarks": [
+              {
+                "label": "Центр города",
+                "distance": "7,6 км"
+              },
+              {
+                "label": "Третье транспортное кольцо",
+                "distance": "8,5 км"
+              }
+            ],
+            "geoBullets": [],
+            "ratePlan": {
+              "price": {
+                "current": "24,300 RUB",
+                "exactCurrent": 24300.0,
+                "old": "27,000 RUB",
+                "info": "за 1 номер на 3 суток",
+                "summary": "включая налоги и сборы"
+              },
+              "features": {
+                "freeCancellation": false,
+                "paymentPreference": false,
+                "noCCRequired": true
+              },
+              "type": "HC"
+            },
+            "neighbourhood": "Сокол",
+            "deals": {
+              "secretPrice": {
+                "dealText": "Экономьте больше с нашими секретными ценами!"
+              },
+              "priceReasoning": "DRR-443"
+            },
+            "messaging": {},
+            "badging": {},
+            "coordinate": {
+              "lat": 55.79876,
+              "lon": 37.51903
+            },
+            "providerType": "LOCAL",
+            "supplierHotelId": 3134230,
+            "isAlternative": false,
+            "optimizedThumbUrls": {
+              "srpDesktop": "https://thumbnails.trvl-media.com/VkHYlYdg7hBnVWQzoepm5nwSHcg=/250x140/smart/filters:quality(60)/images.trvl-media.com/hotels/4000000/3140000/3134300/3134230/32ad5844_y.jpg"
+            }
+          },
+          {
+            "id": 776468352,
+            "name": "Апартаменты «LUXKV на Славянском бульваре»",
+            "starRating": 3.0,
+            "urls": {},
+            "address": {
+              "locality": "Москва",
+              "region": "",
+              "countryName": "Россия",
+              "countryCode": "ru",
+              "obfuscate": false
+            },
+            "welcomeRewards": {
+              "collect": true
+            },
+            "landmarks": [
+              {
+                "label": "Центр города",
+                "distance": "9,7 км"
+              },
+              {
+                "label": "Третье транспортное кольцо",
+                "distance": "9,6 км"
+              }
+            ],
+            "geoBullets": [],
+            "ratePlan": {
+              "price": {
+                "current": "23,454 RUB",
+                "exactCurrent": 23454.0,
+                "info": "за 1 квартиру на 3 суток",
+                "summary": "включая налоги и сборы"
+              },
+              "features": {
+                "freeCancellation": false,
+                "paymentPreference": false,
+                "noCCRequired": false
+              },
+              "type": "EC"
+            },
+            "neighbourhood": "Фили-Давыдково",
+            "deals": {},
+            "messaging": {
+              "scarcity": "1 остался в нашем приложении"
+            },
+            "badging": {},
+            "pimmsAttributes": "D13",
+            "coordinate": {
+              "lat": 55.72711,
+              "lon": 37.46953
+            },
+            "roomsLeft": 1,
+            "providerType": "LOCAL",
+            "supplierHotelId": 24233386,
+            "vrBadge": "Квартира",
+            "isAlternative": false,
+            "optimizedThumbUrls": {
+              "srpDesktop": "https://thumbnails.trvl-media.com/YLx2kkdlW1Fv48Hvx7emtNi6C9E=/250x140/smart/filters:quality(60)/images.trvl-media.com/hotels/25000000/24240000/24233400/24233386/44583d65_z.jpg"
+            }
+          },
+          {
+            "id": 1057442080,
+            "name": "ApartExpo на Кутузовском 30",
+            "starRating": 3.5,
+            "urls": {},
+            "address": {
+              "locality": "Москва",
+              "region": "",
+              "countryName": "Россия",
+              "countryCode": "ru",
+              "obfuscate": false
+            },
+            "welcomeRewards": {
+              "collect": true
+            },
+            "landmarks": [
+              {
+                "label": "Центр города",
+                "distance": "5,1 км"
+              },
+              {
+                "label": "Третье транспортное кольцо",
+                "distance": "5,1 км"
+              }
+            ],
+            "geoBullets": [],
+            "ratePlan": {
+              "price": {
+                "current": "22,500 RUB",
+                "exactCurrent": 22500.0,
+                "info": "за 1 квартиру на 3 суток",
+                "summary": "включая налоги и сборы"
+              },
+              "features": {
+                "freeCancellation": false,
+                "paymentPreference": false,
+                "noCCRequired": false
+              },
+              "type": "HC"
+            },
+            "neighbourhood": "Дорогомилово",
+            "deals": {},
+            "messaging": {
+              "scarcity": "1 остался в нашем приложении"
+            },
+            "badging": {},
+            "pimmsAttributes": "DoubleStamps|D13|HRW",
+            "coordinate": {
+              "lat": 55.74146,
+              "lon": 37.53801
+            },
+            "roomsLeft": 1,
+            "providerType": "LOCAL",
+            "supplierHotelId": 33013815,
+            "vrBadge": "Квартира",
+            "isAlternative": false,
+            "optimizedThumbUrls": {
+              "srpDesktop": "https://thumbnails.trvl-media.com/1TmaL4inJrpwEkq3v5W_sE6Hv9A=/250x140/smart/filters:quality(60)/images.trvl-media.com/hotels/34000000/33020000/33013900/33013815/9cb0d6be_y.jpg"
+            }
+          },
+          {
+            "id": 1662255104,
+            "name": "Отель «Movenpick Москва Таганская»",
+            "starRating": 5.0,
+            "urls": {},
+            "address": {
+              "streetAddress": "ул. Земляной Вал, 70",
+              "extendedAddress": "",
+              "locality": "Москва",
+              "postalCode": "109004",
+              "region": "",
+              "countryName": "Россия",
+              "countryCode": "ru",
+              "obfuscate": false
+            },
+            "welcomeRewards": {
+              "collect": true
+            },
+            "guestReviews": {
+              "unformattedRating": 10.0,
+              "rating": "10,0",
+              "total": 2,
+              "scale": 10,
+              "badge": "exceptional",
+              "badgeText": "Великолепно"
+            },
+            "landmarks": [
+              {
+                "label": "Центр города",
+                "distance": "2,8 км"
+              },
+              {
+                "label": "Третье транспортное кольцо",
+                "distance": "2,3 км"
+              }
+            ],
+            "geoBullets": [],
+            "ratePlan": {
+              "price": {
+                "current": "22,230 RUB",
+                "exactCurrent": 22230.0,
+                "old": "24,700 RUB",
+                "info": "за 1 номер на 3 суток",
+                "summary": "включая налоги и сборы"
+              },
+              "features": {
+                "freeCancellation": true,
+                "paymentPreference": true,
+                "noCCRequired": false
+              },
+              "type": "Dual"
+            },
+            "neighbourhood": "Таганский",
+            "deals": {
+              "specialDeal": {
+                "dealText": "Только при бронировании с мобильного устройства: сэкономьте 10 %"
+              },
+              "priceReasoning": "DRR-444"
+            },
+            "messaging": {},
+            "badging": {},
+            "coordinate": {
+              "lat": 55.744452,
+              "lon": 37.654482
+            },
+            "providerType": "LOCAL",
+            "supplierHotelId": 51914222,
+            "isAlternative": false,
+            "optimizedThumbUrls": {
+              "srpDesktop": "https://thumbnails.trvl-media.com/GFbw0i0qnjIO_dpRkG2w76f11yk=/250x140/smart/filters:quality(60)/images.trvl-media.com/hotels/52000000/51920000/51914300/51914222/9b6eb7b7_z.jpg"
+            }
+          },
+          {
+            "id": 142977,
+            "name": "Шератон Палас Отель Москва",
+            "starRating": 5.0,
+            "urls": {},
+            "address": {
+              "streetAddress": "1-я Тверская-Ямская ул., д. 19",
+              "extendedAddress": "",
+              "locality": "Москва",
+              "postalCode": "125047",
+              "region": "",
+              "countryName": "Россия",
+              "countryCode": "ru",
+              "obfuscate": false
+            },
+            "welcomeRewards": {
+              "collect": true
+            },
+            "guestReviews": {
+              "unformattedRating": 8.8,
+              "rating": "8,8",
+              "total": 173,
+              "scale": 10,
+              "badge": "fabulous",
+              "badgeText": "Превосходно"
+            },
+            "landmarks": [
+              {
+                "label": "Центр города",
+                "distance": "2,6 км"
+              },
+              {
+                "label": "Третье транспортное кольцо",
+                "distance": "3,6 км"
+              }
+            ],
+            "geoBullets": [],
+            "ratePlan": {
+              "price": {
+                "current": "22,200 RUB",
+                "exactCurrent": 22200.0,
+                "info": "за 1 номер на 3 суток",
+                "summary": "включая налоги и сборы"
+              },
+              "features": {
+                "freeCancellation": false,
+                "paymentPreference": true,
+                "noCCRequired": false
+              },
+              "type": "Dual"
+            },
+            "neighbourhood": "Тверской",
+            "deals": {},
+            "messaging": {},
+            "badging": {},
+            "pimmsAttributes": "DoubleStamps|TESCO",
+            "coordinate": {
+              "lat": 55.774377,
+              "lon": 37.588316
+            },
+            "providerType": "LOCAL",
+            "supplierHotelId": 14292,
+            "isAlternative": false,
+            "optimizedThumbUrls": {
+              "srpDesktop": "https://thumbnails.trvl-media.com/WlTmAh9wAL5-WgMEDmrWJZlcCio=/250x140/smart/filters:quality(60)/images.trvl-media.com/hotels/1000000/20000/14300/14292/72ba255b_z.jpg"
+            }
+          },
+          {
+            "id": 1468185696,
+            "name": "Квартиры KIGO Liner East",
+            "starRating": 3.0,
+            "urls": {},
+            "address": {
+              "locality": "Москва",
+              "region": "",
+              "countryName": "Россия",
+              "countryCode": "ru",
+              "obfuscate": false
+            },
+            "welcomeRewards": {
+              "collect": true
+            },
+            "guestReviews": {
+              "unformattedRating": 10.0,
+              "rating": "10,0",
+              "total": 1,
+              "scale": 10,
+              "badge": "exceptional",
+              "badgeText": "Великолепно"
+            },
+            "landmarks": [
+              {
+                "label": "Центр города",
+                "distance": "6,0 км"
+              },
+              {
+                "label": "Третье транспортное кольцо",
+                "distance": "6,9 км"
+              }
+            ],
+            "geoBullets": [],
+            "ratePlan": {
+              "price": {
+                "current": "21,785 RUB",
+                "exactCurrent": 21784.95,
+                "old": "24,206 RUB",
+                "info": "за 1 квартиру на 3 суток",
+                "summary": "включая налоги и сборы"
+              },
+              "features": {
+                "freeCancellation": false,
+                "paymentPreference": false,
+                "noCCRequired": false
+              },
+              "type": "EC"
+            },
+            "neighbourhood": "Хорошевский",
+            "deals": {
+              "secretPrice": {
+                "dealText": "Экономьте больше с нашими секретными ценами!"
+              },
+              "priceReasoning": "DRR-443"
+            },
+            "messaging": {
+              "scarcity": "3 осталось в нашем приложении"
+            },
+            "badging": {},
+            "pimmsAttributes": "DoubleStamps|D13",
+            "coordinate": {
+              "lat": 55.788659,
+              "lon": 37.537622
+            },
+            "roomsLeft": 3,
+            "providerType": "LOCAL",
+            "supplierHotelId": 45849553,
+            "vrBadge": "Квартира",
+            "isAlternative": false,
+            "optimizedThumbUrls": {
+              "srpDesktop": "https://thumbnails.trvl-media.com/vWVfFZGCvfL-qsaklEbxFdLqAds=/250x140/smart/filters:quality(60)/images.trvl-media.com/hotels/46000000/45850000/45849600/45849553/bd664e61_z.jpg"
+            }
+          },
+          {
+            "id": 1833415008,
+            "name": "Отель «Алеон»",
+            "starRating": 3.5,
+            "urls": {},
+            "address": {
+              "streetAddress": "ул. Валовая, 32/75, стр. 1",
+              "extendedAddress": "",
+              "locality": "Москва",
+              "postalCode": "115054",
+              "region": "",
+              "countryName": "Россия",
+              "countryCode": "ru",
+              "obfuscate": false
+            },
+            "welcomeRewards": {
+              "collect": true
+            },
+            "guestReviews": {
+              "unformattedRating": 8.0,
+              "rating": "8,0",
+              "total": 1,
+              "scale": 10,
+              "badge": "very-good",
+              "badgeText": "Очень хорошо"
+            },
+            "landmarks": [
+              {
+                "label": "Центр города",
+                "distance": "3,0 км"
+              },
+              {
+                "label": "Третье транспортное кольцо",
+                "distance": "1,8 км"
+              }
+            ],
+            "geoBullets": [],
+            "ratePlan": {
+              "price": {
+                "current": "21,780 RUB",
+                "exactCurrent": 21780.0,
+                "old": "24,200 RUB",
+                "info": "за 1 номер на 3 суток",
+                "summary": "включая налоги и сборы"
+              },
+              "features": {
+                "freeCancellation": false,
+                "paymentPreference": false,
+                "noCCRequired": false
+              },
+              "type": "HC"
+            },
+            "neighbourhood": "Замоскворечье",
+            "deals": {
+              "secretPrice": {
+                "dealText": "Экономьте больше с нашими секретными ценами!"
+              },
+              "priceReasoning": "DRR-443"
+            },
+            "messaging": {
+              "scarcity": "1 остался в нашем приложении"
+            },
+            "badging": {},
+            "coordinate": {
+              "lat": 55.730487,
+              "lon": 37.626412
+            },
+            "roomsLeft": 1,
+            "providerType": "LOCAL",
+            "supplierHotelId": 57262969,
+            "isAlternative": false,
+            "optimizedThumbUrls": {
+              "srpDesktop": "https://thumbnails.trvl-media.com/3SVKc4z5UB8FLlC8bVJktfWklDo=/250x140/smart/filters:quality(60)/images.trvl-media.com/hotels/58000000/57270000/57263000/57262969/1393ae40_z.jpg"
+            }
+          },
+          {
+            "id": 775933184,
+            "name": "Апартаменты «LUXKV на Белорусской»",
+            "starRating": 3.0,
+            "urls": {},
+            "address": {
+              "locality": "Москва",
+              "region": "",
+              "countryName": "Россия",
+              "countryCode": "ru",
+              "obfuscate": false
+            },
+            "welcomeRewards": {
+              "collect": true
+            },
+            "guestReviews": {
+              "unformattedRating": 2.0,
+              "rating": "2,0",
+              "total": 1,
+              "scale": 10
+            },
+            "landmarks": [
+              {
+                "label": "Центр города",
+                "distance": "2,9 км"
+              },
+              {
+                "label": "Третье транспортное кольцо",
+                "distance": "3,8 км"
+              }
+            ],
+            "geoBullets": [],
+            "ratePlan": {
+              "price": {
+                "current": "21,774 RUB",
+                "exactCurrent": 21774.0,
+                "info": "за 1 квартиру на 3 суток",
+                "summary": "включая налоги и сборы"
+              },
+              "features": {
+                "freeCancellation": false,
+                "paymentPreference": false,
+                "noCCRequired": false
+              },
+              "type": "EC"
+            },
+            "neighbourhood": "Пресненский",
+            "deals": {},
+            "messaging": {
+              "scarcity": "1 остался в нашем приложении"
+            },
+            "badging": {},
+            "pimmsAttributes": "DoubleStamps|D13",
+            "coordinate": {
+              "lat": 55.77208,
+              "lon": 37.57836
+            },
+            "roomsLeft": 1,
+            "providerType": "LOCAL",
+            "supplierHotelId": 24216662,
+            "vrBadge": "Квартира",
+            "isAlternative": false,
+            "optimizedThumbUrls": {
+              "srpDesktop": "https://thumbnails.trvl-media.com/TL6wZwZY4VrhIfS-ghasTU542Fg=/250x140/smart/filters:quality(60)/images.trvl-media.com/hotels/25000000/24220000/24216700/24216662/78f9b334_z.jpg"
+            }
+          },
+          {
+            "id": 882995776,
+            "name": "Отель «Аэротель Экспресс»",
+            "starRating": 3.0,
+            "urls": {},
+            "address": {
+              "streetAddress": "аэропорт Домодедово, здание 1,",
+              "extendedAddress": "2-й этаж терминала",
+              "locality": "Домодедово",
+              "postalCode": "142015",
+              "region": "Московская обл.",
+              "countryName": "Россия",
+              "countryCode": "ru",
+              "obfuscate": false
+            },
+            "welcomeRewards": {
+              "collect": true
+            },
+            "guestReviews": {
+              "unformattedRating": 8.4,
+              "rating": "8,4",
+              "total": 105,
+              "scale": 10,
+              "badge": "very-good",
+              "badgeText": "Очень хорошо"
+            },
+            "landmarks": [
+              {
+                "label": "Центр города",
+                "distance": "42 км"
+              },
+              {
+                "label": "Третье транспортное кольцо",
+                "distance": "41 км"
+              }
+            ],
+            "geoBullets": [],
+            "ratePlan": {
+              "price": {
+                "current": "21,741 RUB",
+                "exactCurrent": 21741.3,
+                "old": "24,990 RUB",
+                "info": "за 1 номер на 3 суток",
+                "summary": "включая налоги и сборы"
+              },
+              "features": {
+                "freeCancellation": false,
+                "paymentPreference": false,
+                "noCCRequired": false
+              },
+              "type": "EC"
+            },
+            "neighbourhood": "Домодедово",
+            "deals": {
+              "secretPrice": {
+                "dealText": "Экономьте больше с нашими секретными ценами!"
+              },
+              "priceReasoning": "DRR-443"
+            },
+            "messaging": {
+              "scarcity": "1 остался в нашем приложении"
+            },
+            "badging": {},
+            "pimmsAttributes": "DoubleStamps|D13|TESCO",
+            "coordinate": {
+              "lat": 55.415222,
+              "lon": 37.898905
+            },
+            "roomsLeft": 1,
+            "providerType": "LOCAL",
+            "supplierHotelId": 27562368,
+            "isAlternative": false,
+            "optimizedThumbUrls": {
+              "srpDesktop": "https://thumbnails.trvl-media.com/2aXMs0LvtVhzfnv-QOwTNt18x60=/250x140/smart/filters:quality(60)/images.trvl-media.com/hotels/28000000/27570000/27562400/27562368/907fb27c_z.jpg"
+            }
+          },
+          {
+            "id": 345360,
+            "name": "Отель «Ренессанс Москва Монарх Центр»",
+            "starRating": 4.0,
+            "urls": {},
+            "address": {
+              "streetAddress": "Ленинградский проспект, 31А, корп. 1",
+              "extendedAddress": "",
+              "locality": "Москва",
+              "postalCode": "125284",
+              "region": "",
+              "countryName": "Россия",
+              "countryCode": "ru",
+              "obfuscate": false
+            },
+            "welcomeRewards": {
+              "collect": true
+            },
+            "guestReviews": {
+              "unformattedRating": 9.2,
+              "rating": "9,2",
+              "total": 53,
+              "scale": 10,
+              "badge": "superb",
+              "badgeText": "Потрясающе"
+            },
+            "landmarks": [
+              {
+                "label": "Центр города",
+                "distance": "4,5 км"
+              },
+              {
+                "label": "Третье транспортное кольцо",
+                "distance": "5,4 км"
+              }
+            ],
+            "geoBullets": [],
+            "ratePlan": {
+              "price": {
+                "current": "21,600 RUB",
+                "exactCurrent": 21600.0,
+                "info": "за 1 номер на 3 суток",
+                "summary": "включая налоги и сборы"
+              },
+              "features": {
+                "freeCancellation": false,
+                "paymentPreference": true,
+                "noCCRequired": false
+              },
+              "type": "Dual"
+            },
+            "neighbourhood": "Беговой",
+            "deals": {},
+            "messaging": {},
+            "badging": {},
+            "pimmsAttributes": "DoubleStamps|TESCO",
+            "coordinate": {
+              "lat": 55.782625,
+              "lon": 37.560679
+            },
+            "providerType": "LOCAL",
+            "supplierHotelId": 3483654,
+            "isAlternative": false,
+            "optimizedThumbUrls": {
+              "srpDesktop": "https://thumbnails.trvl-media.com/UeRQQUz7-VrN_eQ3AVsaTMgWskU=/250x140/smart/filters:quality(60)/images.trvl-media.com/hotels/4000000/3490000/3483700/3483654/5d5b6cc4_z.jpg"
+            }
+          },
+          {
+            "id": 453294,
+            "name": "Отель DoubleTree by Hilton Москва - Марина",
+            "starRating": 4.0,
+            "urls": {},
+            "address": {
+              "streetAddress": "стр.  1, Ленинградское шоссе, 39",
+              "extendedAddress": "",
+              "locality": "Москва",
+              "postalCode": "125212",
+              "region": "",
+              "countryName": "Россия",
+              "countryCode": "ru",
+              "obfuscate": false
+            },
+            "welcomeRewards": {
+              "collect": true
+            },
+            "guestReviews": {
+              "unformattedRating": 9.2,
+              "rating": "9,2",
+              "total": 66,
+              "scale": 10,
+              "badge": "superb",
+              "badgeText": "Потрясающе"
+            },
+            "landmarks": [
+              {
+                "label": "Центр города",
+                "distance": "12 км"
+              },
+              {
+                "label": "Третье транспортное кольцо",
+                "distance": "13 км"
+              }
+            ],
+            "geoBullets": [],
+            "ratePlan": {
+              "price": {
+                "current": "21,600 RUB",
+                "exactCurrent": 21600.0,
+                "info": "за 1 номер на 3 суток",
+                "summary": "включая налоги и сборы"
+              },
+              "features": {
+                "freeCancellation": true,
+                "paymentPreference": true,
+                "noCCRequired": false
+              },
+              "type": "Dual"
+            },
+            "neighbourhood": "Войковский",
+            "deals": {},
+            "messaging": {},
+            "badging": {},
+            "pimmsAttributes": "DoubleStamps|priceRangeUK|TESCO",
+            "coordinate": {
+              "lat": 55.83277,
+              "lon": 37.48591
+            },
+            "providerType": "LOCAL",
+            "supplierHotelId": 7422047,
+            "isAlternative": false,
+            "optimizedThumbUrls": {
+              "srpDesktop": "https://thumbnails.trvl-media.com/UAFNl5sJex-iNTFvP6DLKWRfRPo=/250x140/smart/filters:quality(60)/images.trvl-media.com/hotels/8000000/7430000/7422100/7422047/ee31d795_z.jpg"
+            }
+          }
+        ],
+        "pagination": {
+          "currentPage": 2,
+          "pageGroup": "EXPEDIA_IN_POLYGON",
+          "nextPageStartIndex": 25,
+          "nextPageNumber": 3,
+          "nextPageGroup": "EXPEDIA_IN_POLYGON"
+        }
+      },
+      "sortResults": {
+        "options": [
+          {
+            "label": "Рекомендованные",
+            "itemMeta": "popular",
+            "choices": [
+              {
+                "label": "Рекомендованные",
+                "value": "BEST_SELLER",
+                "selected": false
+              }
+            ],
+            "enhancedChoices": []
+          },
+          {
+            "label": "Звездность",
+            "itemMeta": "star",
+            "choices": [
+              {
+                "label": "Звезды (по убыванию)",
+                "value": "STAR_RATING_HIGHEST_FIRST",
+                "selected": false
+              },
+              {
+                "label": "Звезды (по возрастанию)",
+                "value": "STAR_RATING_LOWEST_FIRST",
+                "selected": false
+              }
+            ],
+            "enhancedChoices": []
+          },
+          {
+            "label": "Расстояние",
+            "itemMeta": "distance",
+            "choices": [
+              {
+                "label": "Расстояние до центра города",
+                "value": "DISTANCE_FROM_LANDMARK",
+                "selected": false
+              }
+            ],
+            "enhancedChoices": [
+              {
+                "label": "Что посмотреть",
+                "itemMeta": "landmarks",
+                "choices": [
+                  {
+                    "label": "Центр города",
+                    "id": 1153093.0
+                  },
+                  {
+                    "label": "Арбат",
+                    "id": 1707917.0
+                  },
+                  {
+                    "label": "Арена ЦСКА",
+                    "id": 10674386.0
+                  },
+                  {
+                    "label": "Большой театр",
+                    "id": 1647670.0
+                  },
+                  {
+                    "label": "Выставка достижений народного хозяйства",
+                    "id": 1799141.0
+                  },
+                  {
+                    "label": "Выставочный центр «Крокус»",
+                    "id": 1688939.0
+                  },
+                  {
+                    "label": "Дворец спорта «Мегаспорт»",
+                    "id": 1708351.0
+                  },
+                  {
+                    "label": "Здание Министерства иностранных дел",
+                    "id": 1786332.0
+                  },
+                  {
+                    "label": "Красная площадь",
+                    "id": 1647668.0
+                  },
+                  {
+                    "label": "Москва-Сити",
+                    "id": 10666602.0
+                  },
+                  {
+                    "label": "Московский государственный университет",
+                    "id": 1708449.0
+                  },
+                  {
+                    "label": "Московский Кремль",
+                    "id": 1647675.0
+                  },
+                  {
+                    "label": "Посольство Соединенных Штатов Америки",
+                    "id": 1796900.0
+                  },
+                  {
+                    "label": "Проспект Мира",
+                    "id": 1665956.0
+                  },
+                  {
+                    "label": "Стадион «Лужники»",
+                    "id": 1708350.0
+                  },
+                  {
+                    "label": "Тверская улица",
+                    "id": 11422273.0
+                  },
+                  {
+                    "label": "Торговый центр Авиапарк",
+                    "id": 10895026.0
+                  },
+                  {
+                    "label": "Третье транспортное кольцо",
+                    "id": 1786010.0
+                  },
+                  {
+                    "label": "Храм Василия Блаженного",
+                    "id": 1647674.0
+                  },
+                  {
+                    "label": "Экспоцентр",
+                    "id": 1688969.0
+                  }
+                ]
+              },
+              {
+                "label": "Вокзалы и станции",
+                "itemMeta": "stations",
+                "choices": [
+                  {
+                    "label": "Белорусский вокзал",
+                    "id": 1709351.0
+                  },
+                  {
+                    "label": "Казанский вокзал",
+                    "id": 1770164.0
+                  },
+                  {
+                    "label": "Киевский вокзал",
+                    "id": 1705552.0
+                  },
+                  {
+                    "label": "Киевский вокзал",
+                    "id": 1770167.0
+                  },
+                  {
+                    "label": "Курский вокзал",
+                    "id": 1770165.0
+                  },
+                  {
+                    "label": "Ленинградский вокзал",
+                    "id": 1770163.0
+                  },
+                  {
+                    "label": "м. «Бауманская»",
+                    "id": 1705654.0
+                  },
+                  {
+                    "label": "м. «Белорусская» - Кольцевая линия",
+                    "id": 1705670.0
+                  },
+                  {
+                    "label": "м. «Братиславская»",
+                    "id": 1705866.0
+                  },
+                  {
+                    "label": "м. «ВДНХ»",
+                    "id": 1705692.0
+                  },
+                  {
+                    "label": "м. «Киевская» - Кольцевая линия",
+                    "id": 1705671.0
+                  },
+                  {
+                    "label": "м. «Краснопресненская»",
+                    "id": 1705672.0
+                  },
+                  {
+                    "label": "м. «Кунцевская»",
+                    "id": 1705556.0
+                  },
+                  {
+                    "label": "м. «Павелецкая»",
+                    "id": 1708370.0
+                  },
+                  {
+                    "label": "м. «Смоленская»",
+                    "id": 1705666.0
+                  },
+                  {
+                    "label": "м. «Тверская»",
+                    "id": 1705547.0
+                  },
+                  {
+                    "label": "м. «Шоссе энтузиастов»",
+                    "id": 1705767.0
+                  },
+                  {
+                    "label": "м. «Юго-западная»",
+                    "id": 1705541.0
+                  },
+                  {
+                    "label": "Павелецкий вокзал",
+                    "id": 1770166.0
+                  },
+                  {
+                    "label": "Ярославский вокзал",
+                    "id": 1770161.0
+                  }
+                ]
+              },
+              {
+                "label": "Аэропорты",
+                "itemMeta": "airports",
+                "choices": [
+                  {
+                    "label": "Аэропорт Шереметьево (SVO)",
+                    "id": 1666194.0
+                  },
+                  {
+                    "label": "Жуковский (ZIA)",
+                    "id": 10674387.0
+                  },
+                  {
+                    "label": "Москва (DME-Домодедово, международный)",
+                    "id": 1666007.0
+                  },
+                  {
+                    "label": "Москва (VKO-Внуково, международный)",
+                    "id": 1666214.0
+                  },
+                  {
+                    "label": "Подольск (OSF-Остафьево)",
+                    "id": 12459347.0
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "label": "Рейтинг гостей",
+            "itemMeta": "rating",
+            "choices": [
+              {
+                "label": "Рейтинг гостей",
+                "value": "GUEST_RATING",
+                "selected": false
+              }
+            ],
+            "enhancedChoices": []
+          },
+          {
+            "label": "Цена",
+            "itemMeta": "price",
+            "selectedChoiceLabel": "Цена (по убыванию)",
+            "choices": [
+              {
+                "label": "Цена (по убыванию)",
+                "value": "PRICE_HIGHEST_FIRST",
+                "selected": true
+              },
+              {
+                "label": "Цена (по возрастанию)",
+                "value": "PRICE",
+                "selected": false
+              }
+            ],
+            "enhancedChoices": []
+          }
+        ],
+        "distanceOptionLandmarkId": 1153093.0
+      },
+      "filters": {
+        "applied": false,
+        "name": {
+          "item": {
+            "value": ""
+          },
+          "autosuggest": {
+            "additionalUrlParams": {
+              "resolved-location": "CITY:1153093:UNKNOWN:UNKNOWN",
+              "q-destination": "Москва, Россия",
+              "destination-id": "1153093"
+            }
+          }
+        },
+        "starRating": {
+          "applied": false,
+          "items": [
+            {
+              "value": 5
+            },
+            {
+              "value": 4
+            },
+            {
+              "value": 3
+            },
+            {
+              "value": 2
+            },
+            {
+              "value": 1
+            }
+          ]
+        },
+        "guestRating": {
+          "range": {
+            "min": {
+              "defaultValue": 0.0
+            },
+            "max": {
+              "defaultValue": 10.0
+            }
+          }
+        },
+        "landmarks": {
+          "selectedOrder": [],
+          "items": [
+            {
+              "label": "Центр города",
+              "value": "1153093"
+            },
+            {
+              "label": "Третье транспортное кольцо",
+              "value": "1786010"
+            },
+            {
+              "label": "Красная площадь",
+              "value": "1647668"
+            },
+            {
+              "label": "Аэропорт Шереметьево (SVO)",
+              "value": "1666194"
+            },
+            {
+              "label": "Московский Кремль",
+              "value": "1647675"
+            },
+            {
+              "label": "Москва (DME-Домодедово, международный)",
+              "value": "1666007"
+            },
+            {
+              "label": "Арбат",
+              "value": "1707917"
+            },
+            {
+              "label": "Большой театр",
+              "value": "1647670"
+            },
+            {
+              "label": "Храм Василия Блаженного",
+              "value": "1647674"
+            },
+            {
+              "label": "Москва (VKO-Внуково, международный)",
+              "value": "1666214"
+            },
+            {
+              "label": "Экспоцентр",
+              "value": "1688969"
+            },
+            {
+              "label": "Ленинградский вокзал",
+              "value": "1770163"
+            },
+            {
+              "label": "Выставочный центр «Крокус»",
+              "value": "1688939"
+            },
+            {
+              "label": "м. «Павелецкая»",
+              "value": "1708370"
+            },
+            {
+              "label": "Белорусский вокзал",
+              "value": "1709351"
+            },
+            {
+              "label": "Павелецкий вокзал",
+              "value": "1770166"
+            },
+            {
+              "label": "Посольство Соединенных Штатов Америки",
+              "value": "1796900"
+            },
+            {
+              "label": "Москва-Сити",
+              "value": "10666602"
+            },
+            {
+              "label": "Казанский вокзал",
+              "value": "1770164"
+            },
+            {
+              "label": "Тверская улица",
+              "value": "11422273"
+            }
+          ],
+          "distance": []
+        },
+        "neighbourhood": {
+          "applied": false,
+          "items": [
+            {
+              "label": "Арбат",
+              "value": "1665959"
+            },
+            {
+              "label": "Измайлово",
+              "value": "10779356"
+            },
+            {
+              "label": "Сокольники",
+              "value": "1786031"
+            },
+            {
+              "label": "Аэропорт",
+              "value": "1805744"
+            },
+            {
+              "label": "Тверской",
+              "value": "1792341"
+            },
+            {
+              "label": "Хамовники",
+              "value": "1707738"
+            },
+            {
+              "label": "Люблино",
+              "value": "11425835"
+            },
+            {
+              "label": "Восточное Измайлово",
+              "value": "10873994"
+            },
+            {
+              "label": "Ново-Переделкино",
+              "value": "10565800"
+            },
+            {
+              "label": "Митино",
+              "value": "11388207"
+            },
+            {
+              "label": "Басманный",
+              "value": "1707737"
+            },
+            {
+              "label": "Таганский",
+              "value": "1707807"
+            },
+            {
+              "label": "Выхино-Жулебино",
+              "value": "11426695"
+            },
+            {
+              "label": "Академический",
+              "value": "10873979"
+            },
+            {
+              "label": "Пресненский",
+              "value": "1707806"
+            },
+            {
+              "label": "Проспект Вернадского",
+              "value": "10873984"
+            },
+            {
+              "label": "Ярославский район",
+              "value": "11386120"
+            },
+            {
+              "label": "Сокол",
+              "value": "10674385"
+            },
+            {
+              "label": "Братеево",
+              "value": "11423836"
+            },
+            {
+              "label": "Отрадное",
+              "value": "10873962"
+            },
+            {
+              "label": "Рязанский",
+              "value": "10873960"
+            },
+            {
+              "label": "Центр Москвы",
+              "value": "10565407"
+            },
+            {
+              "label": "Царицыно",
+              "value": "10565393"
+            },
+            {
+              "label": "Марьино",
+              "value": "11426142"
+            },
+            {
+              "label": "Даниловский",
+              "value": "1812327"
+            },
+            {
+              "label": "Чертаново Южное",
+              "value": "10565799"
+            },
+            {
+              "label": "Марьина Роща",
+              "value": "10873976"
+            },
+            {
+              "label": "Останкинский",
+              "value": "10565395"
+            },
+            {
+              "label": "Беговой",
+              "value": "1665962"
+            },
+            {
+              "label": "Красносельский",
+              "value": "1707739"
+            },
+            {
+              "label": "Бутырский",
+              "value": "10565391"
+            },
+            {
+              "label": "Дорогомилово",
+              "value": "1792342"
+            },
+            {
+              "label": "Северное Медведково",
+              "value": "11425235"
+            },
+            {
+              "label": "Алтуфьевский",
+              "value": "11422945"
+            },
+            {
+              "label": "Бибирево",
+              "value": "11422786"
+            },
+            {
+              "label": "Гагаринский",
+              "value": "10873952"
+            },
+            {
+              "label": "Богородское",
+              "value": "10383754"
+            },
+            {
+              "label": "Ленинский район",
+              "value": "10780768"
+            },
+            {
+              "label": "Хорошевский",
+              "value": "1786029"
+            },
+            {
+              "label": "Хорошёво-Мнёвники",
+              "value": "1695454"
+            },
+            {
+              "label": "Войковский",
+              "value": "10873961"
+            },
+            {
+              "label": "Зябликово",
+              "value": "11426311"
+            },
+            {
+              "label": "Люберецкий район",
+              "value": "10411964"
+            },
+            {
+              "label": "район Текстильщики",
+              "value": "11426277"
+            },
+            {
+              "label": "район Северный",
+              "value": "11425033"
+            },
+            {
+              "label": "район Коптево",
+              "value": "11427377"
+            },
+            {
+              "label": "район Некрасовка",
+              "value": "11386766"
+            },
+            {
+              "label": "Якиманка",
+              "value": "1707818"
+            },
+            {
+              "label": "Бескудниковский",
+              "value": "11426648"
+            },
+            {
+              "label": "Хорошевский",
+              "value": "10873983"
+            },
+            {
+              "label": "район Печатники",
+              "value": "11427467"
+            },
+            {
+              "label": "Алексеевский",
+              "value": "1786012"
+            },
+            {
+              "label": "Лосиноостровский",
+              "value": "11425947"
+            },
+            {
+              "label": "Перово",
+              "value": "12547349"
+            },
+            {
+              "label": "Теплый Стан",
+              "value": "12540339"
+            },
+            {
+              "label": "Новокосино",
+              "value": "12542445"
+            },
+            {
+              "label": "Головинский",
+              "value": "11422855"
+            },
+            {
+              "label": "Южнопортовый район",
+              "value": "11427554"
+            },
+            {
+              "label": "Можайский",
+              "value": "12540341"
+            },
+            {
+              "label": "Куркино",
+              "value": "11425153"
+            },
+            {
+              "label": "Бирюлево Восточное",
+              "value": "12538294"
+            },
+            {
+              "label": "Косино-Ухтомский район",
+              "value": "12543059"
+            },
+            {
+              "label": "район Матушкино",
+              "value": "11425376"
+            },
+            {
+              "label": "Нижегородский",
+              "value": "11426396"
+            },
+            {
+              "label": "район Нагатинский затон",
+              "value": "12538325"
+            },
+            {
+              "label": "Юго-Восточный административный округ",
+              "value": "12525313"
+            },
+            {
+              "label": "Мещанский район",
+              "value": "12544787"
+            },
+            {
+              "label": "Гольяново",
+              "value": "11388231"
+            },
+            {
+              "label": "Котловка",
+              "value": "12548944"
+            },
+            {
+              "label": "Щукино",
+              "value": "12546169"
+            },
+            {
+              "label": "Обручевский",
+              "value": "12542446"
+            },
+            {
+              "label": "сельское поселение Горское",
+              "value": "11420929"
+            },
+            {
+              "label": "Нагатино-Садовники",
+              "value": "12523128"
+            },
+            {
+              "label": "Зюзино",
+              "value": "12537734"
+            },
+            {
+              "label": "Чертаново Северное",
+              "value": "12544137"
+            },
+            {
+              "label": "Левобережный",
+              "value": "11423066"
+            },
+            {
+              "label": "Северный административный округ",
+              "value": "12542526"
+            },
+            {
+              "label": "Чертаново Центральное",
+              "value": "12545742"
+            },
+            {
+              "label": "Орехово-Борисово Южное",
+              "value": "12543039"
+            },
+            {
+              "label": "Молжаниновский",
+              "value": "11387899"
+            },
+            {
+              "label": "Савёловский",
+              "value": "10873982"
+            },
+            {
+              "label": "городской округ Балашиха",
+              "value": "12478080"
+            },
+            {
+              "label": "Преображенское",
+              "value": "12542447"
+            },
+            {
+              "label": "Центральный административный округ",
+              "value": "12537744"
+            },
+            {
+              "label": "Черемушки",
+              "value": "12540340"
+            },
+            {
+              "label": "Северо-Восточный административный округ",
+              "value": "12525316"
+            },
+            {
+              "label": "Вешняки",
+              "value": "12547348"
+            },
+            {
+              "label": "Замоскворечье",
+              "value": "12549599"
+            },
+            {
+              "label": "Ясенево",
+              "value": "12545748"
+            },
+            {
+              "label": "Бутово",
+              "value": "12537728"
+            },
+            {
+              "label": "Коньково",
+              "value": "12548943"
+            },
+            {
+              "label": "Ивановское",
+              "value": "11386055"
+            },
+            {
+              "label": "Бабушкинский",
+              "value": "12511201"
+            },
+            {
+              "label": "Западное Дегунино",
+              "value": "12541406"
+            },
+            {
+              "label": "Очаково-Матвеевское",
+              "value": "12547347"
+            },
+            {
+              "label": "Ломоносовский район",
+              "value": "12540342"
+            },
+            {
+              "label": "городской округ Красногорск",
+              "value": "12490129"
+            },
+            {
+              "label": "Фили-Давыдково",
+              "value": "12545741"
+            },
+            {
+              "label": "Соколиная гора",
+              "value": "12540836"
+            },
+            {
+              "label": "Северо-Западный административный округ",
+              "value": "12537741"
+            },
+            {
+              "label": "Южный административный округ",
+              "value": "12544152"
+            },
+            {
+              "label": "Нагорный",
+              "value": "11388076"
+            },
+            {
+              "label": "Южное Медведково",
+              "value": "11426497"
+            },
+            {
+              "label": "район Восточный",
+              "value": "11408949"
+            },
+            {
+              "label": "Северное Бутово",
+              "value": "12549045"
+            }
+          ]
+        },
+        "accommodationType": {
+          "applied": false,
+          "items": [
+            {
+              "label": "Апарт-отели",
+              "value": "20"
+            },
+            {
+              "label": "Гостевые дома",
+              "value": "30"
+            },
+            {
+              "label": "Гостиницы",
+              "value": "8"
+            },
+            {
+              "label": "Дома для отпуска",
+              "value": "4"
+            },
+            {
+              "label": "Загородные дома",
+              "value": "24"
+            },
+            {
+              "label": "Капсульные отели",
+              "value": "43"
+            },
+            {
+              "label": "Квартиры ",
+              "value": "15"
+            },
+            {
+              "label": "Коттеджи",
+              "value": "11"
+            },
+            {
+              "label": "Курорты",
+              "value": "3"
+            },
+            {
+              "label": "Мини-отели",
+              "value": "5"
+            },
+            {
+              "label": "Отели",
+              "value": "1"
+            },
+            {
+              "label": "Стоянки для автофургонов",
+              "value": "21"
+            },
+            {
+              "label": "Хостелы",
+              "value": "12"
+            }
+          ]
+        },
+        "facilities": {
+          "applied": false,
+          "items": [
+            {
+              "label": "В цену включен Wi-Fi",
+              "value": "527"
+            },
+            {
+              "label": "Для некурящих",
+              "value": "529"
+            },
+            {
+              "label": "Завтрак включен",
+              "value": "2048"
+            },
+            {
+              "label": "Имеется парковка",
+              "value": "16384"
+            },
+            {
+              "label": "Казино",
+              "value": "2112"
+            },
+            {
+              "label": "Круглосуточная стойка регистрации",
+              "value": "2063"
+            },
+            {
+              "label": "Недалеко от лыжных трасс",
+              "value": "535"
+            },
+            {
+              "label": "Парковка включена",
+              "value": "134234112"
+            },
+            {
+              "label": "Пункт зарядки электромобилей",
+              "value": "1073743315"
+            },
+            {
+              "label": "Разрешено проживание с домашними животными",
+              "value": "64"
+            },
+            {
+              "label": "С автобусом до горнолыжных трасс",
+              "value": "531"
+            },
+            {
+              "label": "С баром",
+              "value": "515"
+            },
+            {
+              "label": "С бассейном",
+              "value": "128"
+            },
+            {
+              "label": "С бизнес-услугами",
+              "value": "519"
+            },
+            {
+              "label": "С ванной в номере",
+              "value": "517"
+            },
+            {
+              "label": "С детскими кроватками",
+              "value": "525"
+            },
+            {
+              "label": "С доступом в интернет",
+              "value": "8"
+            },
+            {
+              "label": "С зонами для курения",
+              "value": "537"
+            },
+            {
+              "label": "С конференц-залами",
+              "value": "1"
+            },
+            {
+              "label": "С кухней",
+              "value": "32"
+            },
+            {
+              "label": "С местом для хранения лыж",
+              "value": "533"
+            },
+            {
+              "label": "Со смежными номерами",
+              "value": "523"
+            },
+            {
+              "label": "Со спа-салоном",
+              "value": "539"
+            },
+            {
+              "label": "Со спортзалом",
+              "value": "2"
+            },
+            {
+              "label": "С присмотром за детьми",
+              "value": "521"
+            },
+            {
+              "label": "С рестораном",
+              "value": "256"
+            },
+            {
+              "label": "С трансфером до аэропорта",
+              "value": "513"
+            }
+          ]
+        },
+        "accessibility": {
+          "applied": false,
+          "items": [
+            {
+              "label": "Безбарьерный доступ",
+              "value": "65536"
+            },
+            {
+              "label": "Безбарьерный душ",
+              "value": "262144"
+            },
+            {
+              "label": "Ванная для маломобильных гостей",
+              "value": "131072"
+            },
+            {
+              "label": "Номера для маломобильных гостей",
+              "value": "541"
+            },
+            {
+              "label": "Оборудование для слабослышащих",
+              "value": "2097152"
+            },
+            {
+              "label": "Парковка, приспособленная для маломобильных гостей",
+              "value": "524288"
+            },
+            {
+              "label": "Тактильные указатели со шрифтом Брайля или рельефным шрифтом",
+              "value": "4194304"
+            },
+            {
+              "label": "Удобства в номерах для маломобильных гостей",
+              "value": "1048576"
+            }
+          ]
+        },
+        "themesAndTypes": {
+          "applied": false,
+          "items": [
+            {
+              "label": "Бутик",
+              "value": "4"
+            },
+            {
+              "label": "Для активного отдыха",
+              "value": "18"
+            },
+            {
+              "label": "Для гольфа",
+              "value": "26"
+            },
+            {
+              "label": "Для деловых людей",
+              "value": "14"
+            },
+            {
+              "label": "Для лыжного спорта",
+              "value": "28"
+            },
+            {
+              "label": "Для семейного отдыха",
+              "value": "25"
+            },
+            {
+              "label": "Исторические",
+              "value": "2"
+            },
+            {
+              "label": "Класса «люкс»",
+              "value": "15"
+            },
+            {
+              "label": "На виноградниках",
+              "value": "19"
+            },
+            {
+              "label": "На термальных источниках",
+              "value": "22"
+            },
+            {
+              "label": "Пляжные",
+              "value": "6"
+            },
+            {
+              "label": "Романтические",
+              "value": "1"
+            },
+            {
+              "label": "С казино",
+              "value": "8"
+            },
+            {
+              "label": "Спа",
+              "value": "27"
+            }
+          ]
+        },
+        "price": {
+          "label": "Цена (за 3 суток)",
+          "range": {
+            "min": {
+              "defaultValue": 0
+            },
+            "max": {
+              "defaultValue": 75000
+            },
+            "increments": 750
+          },
+          "multiplier": 3
+        },
+        "paymentPreference": {
+          "items": [
+            {
+              "label": "Бесплатная отмена бронирования",
+              "value": "fc"
+            },
+            {
+              "label": "Забронировать без карты",
+              "value": "ncc"
+            }
+          ]
+        },
+        "welcomeRewards": {
+          "label": "Hotels.com™ Rewards",
+          "items": [
+            {
+              "label": "Получите штампы",
+              "value": "collect"
+            },
+            {
+              "label": "Используйте бонусные* сутки",
+              "value": "redeem"
+            }
+          ]
+        }
+      },
+      "pointOfSale": {
+        "currency": {
+          "code": "RUB",
+          "symbol": "RUB",
+          "separators": ",.",
+          "format": "{0} RUB"
+        }
+      },
+      "miscellaneous": {
+        "pageViewBeaconUrl": "/taps/v1/PageView?deviceType=App-Phone&sort-order=PRICE_HIGHEST_FIRST&rooms=1&destRegionID=1153093&hotelIds=1619001472,721295776,690704992,952960256,463809,800646208,1336823840,226623,864041728,474681,262043,672407,1046237088,264240,336395,776468352,1057442080,1662255104,142977,1468185696,1833415008,775933184,882995776,345360,453294&adults=1&userAgent=Hotels.com/Android%2056.1.1.9.release-56_1%20(56010472)&userGuid=ee38cc1f-d1c7-45ff-bd27-943128950ab8&pageName=Hotel-Search&slots=HSR_A,HSR_B,HSR_C,HSR_D,HSR_E,HSR_F,HSR_G,HSR_H,HSR_I,HSR_J&checkIn=2021-07-31&children=0&culture=ru_RU&testVersionOverride=4961.0,904.0,7561.1,7215.0,8218.0,8711.0,KES,8928.1,9008.0,8347.2,9004.0,8952.0,7992.2,8915.0,9729.0,9716.0,9864.0,10155.0,10185.0,10320.0&domain=ru.hotels.com&userIP=127.0.0.1&action=pageview&publisher=expedia&checkOut=2021-08-03&programId=1",
+        "showLegalInfoForStrikethroughPrices": true,
+        "legalInfoForStrikethroughPrices": "Зачеркнутая цена основана на стандартном тарифе в нашем приложении, установленном и предоставленном объектом размещения."
+      },
+      "pageInfo": {
+        "pageType": "dateful"
+      }
+    },
+    "common": {
+      "pointOfSale": {
+        "numberSeparators": " ,",
+        "brandName": "Hotels.com"
+      },
+      "tracking": {
+        "omniture": {
+          "s.prop33": "D=v33",
+          "s.prop32": "D=v43",
+          "s.prop74": "search result with dates | ms shown | N",
+          "s.products": "LOCAL;50562546,MULTISOURCE;22509243,MULTISOURCE;21553281",
+          "s.eVar16": "Mob :: aApp",
+          "s.eVar40": "D=v0",
+          "s.eVar41": "RUB",
+          "s.eVar63": "6d488dd1-fa09-4214-8348-26fa2a5739bc",
+          "s.eVar42": "0|3|20210731|20210803",
+          "s.eVar4": "|SI:anonymous|VS:returnVisitor|HCR:notApplicable|FC:notApplicable|NS:unknown|TI:notApplicable|SM:notApplicable|IR:anonymous|",
+          "s.eVar43": "ru_RU|HCOM_RU|ru.hotels.com",
+          "s.eVar3": "1|0",
+          "s.eVar22": "2|RUB|24:1619001472:39030.00:35127.00:0|24:721295776:36000.00:32400.00:1|24:690704992:35700.00:32130.00:0|24:952960256:30600.00:30600.00:0|24:463809:29760.00:29760.00:0",
+          "s.eVar2": "Москва, Россия",
+          "s.eVar23": "2|RUB|24:800646208:29700.00:29700.00:0|24:1336823840:31590.00:28431.00:0|24:226623:28800.00:27600.00:0|24:864041728:27400.00:27400.00:0|24:474681:30000.00:27000.00:0",
+          "s.eVar24": "MCTC=20;TU=NA;PDID=NULL;MVT=",
+          "s.eVar7": "0",
+          "s.server": "ru.hotels.com",
+          "s.eVar6": "1153093",
+          "s.prop29": "D=v42",
+          "s.eVar5": "1",
+          "s.prop27": "ee38cc1f-d1c7-45ff-bd27-943128950ab8",
+          "s.eVar9": "Price - high to low",
+          "s.prop21": "0",
+          "s.prop20": "1",
+          "s.eVar69": "Mob :: aApp",
+          "s.currencyCode": "RUB",
+          "s.eVar26": "US:TX:HUNTSVILLE:618",
+          "s.eVar29": "Mob :: aApp",
+          "s.prop9": "2566",
+          "s.eVar95": "Unknown",
+          "s.prop7": "2548",
+          "s.eVar31": "D=v0",
+          "s.eVar32": "D=v0",
+          "s.eVar33": "search result with dates",
+          "s.eVar34": "H1871:007.002,M376:155.001,M904:000.000,M3736:000.000,M4200:000.000,M4440.2,M4869:001.000,M4952:048.001,M4961:001.000,M5184:001.000,M5342:000.000,M5663:000.000,M6388:000.000,M6775:000.000,M6779:000.000,M7015.1,M7192:000.000,M7215:000.000,M7296:000.000,M7305:000.000,M7353:000.000,M7362.0,M7552:023.001,M7763:000.000,M7765.2,M7870:000.000,M7895:000.000,M8336:000.000,M8347:019.002,M8483:000.000,M8692:000.000,M8693:000.000,M8698:000.000,M8708:000.000,M8714:000.000,M8718:000.000,M8915:000.000,M8928:019.001,M8952:000.000,M8954:000.000,M8976:000.000,M8992:000.000,M9035:000.000,M9220:000.000,M9281:000.000,M9282:000.000,M9297:000.000,M9301:000.000,M9351:000.000,M9420:000.000,M9431:000.000,M9469:000.000,M9508:000.000,M9549:000.000,M9567.1,M9691:000.000,M9693:000.000,M9699:004.001,M9716:000.000,M9729:000.000,M9752:000.000,M9771:000.000,M9864:000.000,M9924:006.002,M9961:000.000,M9971:000.000,M10001:000.000,M10007:000.000,M10013:002.001,M10068:000.000,M10085:000.000,M10121:000.000,M10137:000.000,M10155:000.000,M10185:000.000,M10248:000.000,M10255:003.001,M10259:000.000,M10282:000.000,M10300:000.000,M10320:000.000,41379:120248.001,M9215:001.000",
+          "s.eVar13": "389273",
+          "s.prop19": "1",
+          "s.events": "event324,event320,event318",
+          "s.prop18": "D=v6",
+          "s.prop5": "389273",
+          "s.prop15": "3",
+          "s.prop3": "Москва, Россия",
+          "s.prop14": "D=v7",
+          "s.prop36": "|SI:anonymous|VS:returnVisitor|HCR:notApplicable|FC:notApplicable|NS:unknown|TI:notApplicable|SM:notApplicable|IR:anonymous|",
+          "s.eVar93": "aws.us-west-2.unknown",
+          "s.prop2": "Price - high to low"
+        }
+      }
+    }
+  }
+}

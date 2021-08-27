@@ -14,6 +14,7 @@ GET_SIZE_OUT = 7
 IS_SET_DEF_VALUE = 8
 END = 100
 
+#  таблица переходов состояний
 states = {'/lowprice': (START, GET_LOCATION, CHOICE_CITY, GET_SIZE_OUT, IS_SET_DEF_VALUE, GET_NUM_HUMANS,
                         GET_CHECKIN_DATE, GET_CHECKOUT_DATE, END),
           '/highprice': (START, GET_LOCATION, CHOICE_CITY, GET_SIZE_OUT, IS_SET_DEF_VALUE, GET_NUM_HUMANS,

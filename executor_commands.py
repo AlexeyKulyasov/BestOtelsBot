@@ -101,6 +101,7 @@ class CmdSortByPriceAndDist(CmdSortByPrice):
         """
 
         cur_lst_hotels = []
+        prev_lst_hotels = []
         while True:
             result = query_hotels_by_param(data_query=self.api_params, debug_mode=self.debug_mode,
                                            page_number=self.page_number)
@@ -148,12 +149,18 @@ class CmdSortByPriceAndDist(CmdSortByPrice):
                     warning = '\nНи один из отелей не попадает в указанный диапазон расстояния от центра города. ' \
                               f'Максимальное расстояние от центра {max_dist_hotel}. ' \
                               f'Показаны отели с максимально возможным расстоянием!'
+
+                    #  если длина результата < требуемого, то добавляем текущие отели к отелям на пред. странице
+                    if len(hotels) < self.required_size_result:
+                        prev_lst_hotels.extend(hotels)
+                        hotels = prev_lst_hotels
                     #  сортировка и проверка соответствия размеру вывода последних N отелей,
                     #  где N - кол-во отелей для вывода
                     return self._sort_and_parsed_hotels(hotels[-self.required_size_result:],
                                                         ('price_exact', 'to_center_exact'), warning)
                 else:
                     self.page_number += 1
+                    prev_lst_hotels = hotels[:]
                     continue
 
             #  когда заданный диапазон расстояний находится внутри диапазона расстояний полученного списка отелей

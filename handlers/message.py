@@ -43,6 +43,7 @@ def handle_cmd_best_deal(bot: TeleBot, bot_controller: BotController):
         """ Обработка команды "bestdeal". """
 
         id_user = msg.from_user.id
+        logger.debug(f'Запущена команда {msg.text}, user_id={id_user}')
         bot_controller.set_command(id_user, cmd_name=msg.text)
         bot_controller.add_api_params(id_user, sortOrder='DISTANCE_FROM_LANDMARK')
         bot_controller.set_new_state(id_user, fsm.START)
